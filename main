@@ -1,0 +1,974 @@
+[33mcommit 4e9e0daee8ba0ba40c5cfbaefda293fdecfe539e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Mon May 8 14:51:21 2023 -0400
+
+    feat: citations for few shot (#718)
+
+[33mcommit a008e789bb68418a11dedce7b05fc865f306a444[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Sun May 7 19:08:49 2023 -0400
+
+    feat: simple note
+
+[33mcommit 7369252508f45ea93102c5b858a63526b5810502[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Sun May 7 18:58:57 2023 -0400
+
+    feat: no hack note (#716)
+
+[33mcommit 222a559ca2326518e86af5b3447ac710f4032a1b[m
+Merge: d6f07bed91 a63bc47286
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Sun May 7 18:54:24 2023 -0400
+
+    Merge branch 'main' of https://github.com/trigaten/Learn_Prompting into main
+
+[33mcommit a63bc47286a389482efb8ad11d499b3a0b332792[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Sun May 7 18:54:09 2023 -0400
+
+    fix: link to dust (#715)
+
+[33mcommit d6f07bed91a25b440fd74262e65711c7aa85d35e[m[33m ([m[1;31morigin/dust_link[m[33m)[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Sun May 7 18:52:57 2023 -0400
+
+    fix: link to dust
+
+[33mcommit 66d06e083c3a30f7061612a4648013a021d0d159[m
+Author: Howard Chiam <hchiam@users.noreply.github.com>
+Date:   Sat May 6 23:34:40 2023 -0600
+
+    French basic applications (#676)
+    
+    * introduction.md note markdown
+    
+    * table_generation.md
+    
+    * writing_emails.md - partway translated to French
+    
+    * table_generation.md French
+    
+    * Update i18n/fr/docusaurus-plugin-content-docs/current/basic_applications/writing_emails.md
+    
+    * Update i18n/fr/docusaurus-plugin-content-docs/current/basic_applications/writing_emails.md
+    
+    * Update i18n/fr/docusaurus-plugin-content-docs/current/basic_applications/writing_emails.md
+    
+    * Update i18n/fr/docusaurus-plugin-content-docs/current/basic_applications/writing_emails.md
+    
+    * Update i18n/fr/docusaurus-plugin-content-docs/current/basic_applications/writing_emails.md
+    
+    * another embed.learnprompting.org
+    
+    * TODO comments and one more embed.learnprompting.org
+
+[33mcommit 86c8d7e6891af6a516f92cd7be43e8f3bbe6164b[m
+Author: punkshiraishi <pharmacy.sy@gmail.com>
+Date:   Sun May 7 14:33:52 2023 +0900
+
+    Translate 2 files in basic applications into Japanese (#707)
+    
+    * Translate: basic-application/introduction.md into Japanese
+    
+    * Translate: table_generation.md into Japanese
+
+[33mcommit 37041e745cff908a5ea62b409516687b0abc561c[m
+Author: Anaum Khan <anaumkhan10@gmail.com>
+Date:   Sun May 7 01:33:33 2023 -0400
+
+    Update landing page (#709)
+    
+    * added OpenAI logo and fixed subheading layout
+    
+    * fix: get started redirect
+    
+    * fix: get started on click
+    
+    * fix: quality of the astro image in the get started section
+    
+    * fix: the icon placement and marquee scroll
+    
+    * update: banner to promote kickoff
+    
+    * fix: banner text
+    
+    * fix: removed form and added competition to feedback
+    
+    * fix: merge conflict
+    
+    * fix: banner text
+    
+    * fix: banner link redirect to competition page
+
+[33mcommit 165a6cc7757fd5d1619e02513f465e1cb5d71ed2[m
+Author: gezilinll <linbinghe@gmail.com>
+Date:   Sun May 7 13:32:11 2023 +0800
+
+    zh-Hans translate for basic_applications (#713)
+    
+    * Translate: study_tool.md into Chinese
+    
+    * Translate: part of contracts.md into Chinese
+    
+    * Translate: contracts.md into Chinese
+    
+    * Translate: writing_in_diff_voices.md into Chinese
+    
+    * Translate: part of summarize.md into Chinese
+    
+    * Translate: summarize.md into Chinese
+    
+    * Translate: zapier_for_emails.md into Chinese
+
+[33mcommit 3adf72b188c0f6994c674713ccd89dd4887ad9e2[m
+Author: Marco Podesta <59153650+marcopod@users.noreply.github.com>
+Date:   Sat May 6 14:35:25 2023 -0600
+
+    possible typo in line 18 (#712)
+    
+    18. here are many: There are many
+
+[33mcommit 7fb3f570dbb35deb86a20b9201db6ad26c5efaa7[m
+Author: punkshiraishi <pharmacy.sy@gmail.com>
+Date:   Fri May 5 13:06:32 2023 +0900
+
+    fix: typo pitfalls.md title in Japanese (#699)
+    
+    * fix: typo pitfalls.md title in Japanese
+    
+    * Update pitfalls.md
+    
+    ---------
+    
+    Co-authored-by: trigaten <sanderschulhoff@gmail.com>
+
+[33mcommit 7f44a93a1c716cef8690e4da20b7f7b127d4f18b[m
+Author: punkshiraishi <pharmacy.sy@gmail.com>
+Date:   Fri May 5 13:05:54 2023 +0900
+
+    Translate: starting_your_journey.md into Japanese (#698)
+    
+    * Translate: starting_your_journey.md into Japanese
+    
+    * resolve: assets path
+
+[33mcommit 28cdb526385191e4885c082895a926761176d9b7[m
+Author: ndNovaDev <novadev@163.com>
+Date:   Fri May 5 12:05:38 2023 +0800
+
+    fix: typo in short_response (#703)
+
+[33mcommit 4088a639ce65d08c6919e116328e1d64c14f6f27[m
+Author: ndNovaDev <novadev@163.com>
+Date:   Fri May 5 12:05:25 2023 +0800
+
+    Remove the extra "all you" in summarize.md (#702)
+
+[33mcommit b779daed43a678778efbc60ff04b415b6b8191c6[m
+Author: pyoneerC <131000419+pyoneerC@users.noreply.github.com>
+Date:   Fri May 5 01:05:09 2023 -0300
+
+    coding assistance hasmarks (#706)
+
+[33mcommit 131e11feb40328b8c0151561701aae6b7d32358e[m
+Author: punkshiraishi <pharmacy.sy@gmail.com>
+Date:   Wed May 3 12:56:18 2023 +0900
+
+    Translate: configration_hyperparameters.md into Japanese (#696)
+
+[33mcommit 5d3fed6331b3d78b04bb402afbfccdecc3324cca[m
+Author: punkshiraishi <pharmacy.sy@gmail.com>
+Date:   Wed May 3 11:42:34 2023 +0900
+
+    Translate: pitfalls.md into Japanese (#695)
+
+[33mcommit 16d1e37c60d6be0e84976fd63eaa6a32c38a35bd[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Tue May 2 22:42:07 2023 -0400
+
+    feat: improved image (#697)
+
+[33mcommit f1b6bac188ec09433c9e48986de83ad66837450b[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Tue May 2 14:09:06 2023 -0400
+
+    fix: re-add discord redirect page
+
+[33mcommit d2d96c8ae0b256ff1ad583bc21611641d1fd680a[m
+Author: punkshiraishi <pharmacy.sy@gmail.com>
+Date:   Wed May 3 02:06:40 2023 +0900
+
+    Translate: formatlizing.md into Japanese (#692)
+
+[33mcommit a085585353ef29e19655b87f90a11105699f80bb[m
+Author: Anaum Khan <anaumkhan10@gmail.com>
+Date:   Mon May 1 23:43:10 2023 -0400
+
+    Subheading layout (#690)
+    
+    * added OpenAI logo and fixed subheading layout
+    
+    * fix: get started redirect
+    
+    * fix: get started on click
+
+[33mcommit 8a0db282c92c94021f88d4e1bfc51d47ed935726[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Mon May 1 18:03:11 2023 -0400
+
+    feat: improve intro
+
+[33mcommit ace23059e3b42d0f50ce8a52a8aee22fd535bcbd[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Mon May 1 11:20:30 2023 -0400
+
+    ffix: wording
+
+[33mcommit b363b837cae61211fa80346fbd67aa1d41d9071f[m
+Author: Sehwan Park <47601603+sehwan505@users.noreply.github.com>
+Date:   Mon May 1 23:13:13 2023 +0900
+
+    Add korean translation for Basics (#680)
+    
+    * feat: add korean translation about intro.md
+    
+    * feat: add korean translation about basics/intro.md
+    
+    * fix: fix conflict with si
+    
+    * remove si
+    
+    * fix: improve unnatural part
+    
+    * feat: korean translate about basics/prompting.md
+    
+    * feat: korean translate about basics/instructions.md
+    
+    * feat: korean translate for basics/roles.md
+    
+    * feat: korean translation about basics/more_on_prompting.md
+    
+    * feat: korean translation about basics/standard_prompt.md
+    
+    * feat: add korean translation for basic_application/introduction.md and writing emails.md
+    
+    * lm_self_eval.md typo fix (#425)
+    
+    * typo fix
+    
+    * typo fix
+    
+    * typo fix
+    
+    * add korean translation for Intermediate (#431)
+    
+    * feat: add korean translation for intermediate/chain_of_thought.md
+    
+    * feat: add korean translation for intermediate/zero_shot_cot.md
+    
+    * Before this line became a part of the quote. (#429)
+    
+    Before, the line "Prompting with style inputs will greatly increase the quality of your responses!" looked like it was a part of the prompt, and seemed a bit confusing.
+    
+    * feat: MathPrompter (#433)
+    
+    * feat: MathPrompter
+    
+    * feat: 250K
+    
+    * fix: eliminate fever ambiguity (#435)
+    
+    * fix: twitter link
+    
+    * Fix broken link in additional.md (#442)
+    
+    Fix broken link due to twitter username change
+    
+    * feat: basic applications (#236)
+    
+    * feat: basic applications
+    
+    * Add basic email tutorial
+    
+    * feat: writing in diff voice article
+    
+    * Summarizing emails with GPT-3 and Zapier
+    
+    * Update Summarize_emails_nocode.md
+    
+    * Summarizing emails using GPT-3
+    
+    * feat: initial summarize article
+    
+    * feat: green dots
+    
+    * feat: langnoodle twitter
+    
+    * Create coding_assistance.md
+    
+    * Update coding_assistance.md
+    
+    * Added dyno thing
+    
+    * Added codeblock indent after dyno
+    
+    * feat: intro
+    
+    * Added placeholders and commenting dyno
+    
+    * Update coding_assistance.md
+    
+    * Update coding_assistance.md
+    
+    * Update coding_assistance.md
+    
+    * feat: more info
+    
+    * Update coding_assistance.md
+    
+    * fixed style error
+    
+    * increase max tokens
+    
+    The code generation example took too much space, I think, and the output got chopped off, so In increased the max-tokens value.
+    
+    * fixed placeholder for green circle
+    
+    * another attempt at green circle
+    
+    * Removed angle bracket entries
+    
+    * feat: study tool article
+    
+    * feeat: more complete articles
+    
+    * feat: big updates
+    
+    * feat: prompt yes note
+    
+    ---------
+    
+    Co-authored-by: Zach Zhao <zachzhao@startupshell.org>
+    Co-authored-by: Sjotie <sjoerd.tiem@gmail.com>
+    Co-authored-by: Stephen Fraga <63623773+stephenfraga@users.noreply.github.com>
+    
+    * korean translation for Intermediate v2 (#445)
+    
+    * feat: add korean translation for intermediate/chain_of_thought.md
+    
+    * feat: add korean translation for intermediate/zero_shot_cot.md
+    
+    * feat: add korean translation for intermediate/self-consistency.md
+    
+    * feat: add korean translation for intermediate/generated_knowledge.md
+    
+    * fisinsh translate intermediate section with korean (#453)
+    
+    * feat: add korean translation for intermediate/chain_of_thought.md
+    
+    * feat: add korean translation for intermediate/zero_shot_cot.md
+    
+    * feat: add korean translation for intermediate/self-consistency.md
+    
+    * feat: add korean translation for intermediate/generated_knowledge.md
+    
+    * feat: add korean translate for every remained file in intermediate
+    
+    * Fixed the link to the Promt Yes! website (#451)
+    
+    * Add Promptmetheus IDE (#444)
+    
+    * Add Promptmetheus to IDEs
+    
+    * Add Promptmetheus screenshot
+    
+    * Add Promptmetheus to IDE overview
+    
+    * fix: bump edit version
+    
+    * feat: resources (#471)
+    
+    Added resources to the repo
+    
+    * translation (#465)
+    
+    to spanish
+    
+    * feat: translated additional.md (#464)
+    
+    To spanish
+    
+    * feat: thanks to all contrubitours. (#462)
+    
+    Little improvement in readme
+    
+    * translate to spanish chatbot_basics.md (#473)
+    
+    * Translate: prompting (#477)
+    
+    * Translate: prompting
+    
+    * fix: duplicated line
+    
+    * fix: errors in translation
+    
+    * fix: typo
+    
+    * doc: translate basic applications into Chinese (#452)
+    
+    * fix: typo
+    
+    * doc: translate basic applications introduction
+    
+    * doc: translate writing_emails
+    
+    * typo fix (#476)
+    
+    * translate: instructions.md to japanese (#482)
+    
+    * Update products.md (#481)
+    
+    * Update products.md
+    
+    Add Regex.ai, Program to Solve Regular Expression.
+    
+    * Update products.md
+    
+    ---------
+    
+    Co-authored-by: trigaten <sanderschulhoff@gmail.com>
+    
+    * Fix Japanese prompting.md (#480)
+    
+    * add: space
+    
+    * fix: japanese nuances and line breaks
+    
+    * translate into spanish basics/world.md (#487)
+    
+    * translate: roles.md to japanese (#490)
+    
+    * feat: improved welcome page
+    
+    * fix: discord link
+    
+    * fix: bump edit version (#494)
+    
+    * translate: standard_prompt.md to japanese (#495)
+    
+    * Update intro.md (#497)
+    
+    Fixed typo
+    
+    * feat: dyno explanation
+    
+    * feat: bump learners number
+    
+    * fix: previous section prompt
+    
+    * translate: more_on_prompt.md to japanese (#506)
+    
+    * feat: clarify terms
+    
+    * feat: generate table (#508)
+    
+    * replaced non-inclusive language (#499)
+    
+    * replaced '_' with ' ' so that it can actually replace the conversation history in the prompt (#454)
+    
+    * typo (#511)
+    
+    in repo
+    
+    * typo (#530)
+    
+    fixed
+    
+    * typo category (#517)
+    
+    * translate to spanish introduction.md (#512)
+    
+    * fixed a typo (#544)
+    
+    * typo 'mc_tutorial' (#541)
+    
+    behaviour ---> behavior
+    
+    * doc: Translate Structuring Data to Chinese (#543)
+    
+    * typo 'blog_generation.md' (#540)
+    
+    Consdense ---> Condense
+    
+    * typo 'chatbot_basics.md' (#539)
+    
+    Modifing ---> Modifying
+    
+    * 2 typos 'midjourney.md' (#538)
+    
+    artisticly ---> artistically
+    specidfied ---> specified
+    
+    * Introduced word wrapping to code blocks for easier reading (#546)
+    
+    * Introduced word wrapping to code blocks for easier reading
+    
+    * Introduced word wrapping to code blocks for easier reading
+    
+    ---------
+    
+    Co-authored-by: TrustyBeard <thevalhallnumber5@gmail.com>
+    
+    * typo 'defensive_measures' (#536)
+    
+    folowing ---> following
+    
+    * typo 'least_to_most.md' (#537)
+    
+    immediatly ---> immediately
+    
+    * typo 'calibration.md' (#535)
+    
+    probabilites ---> probabilities
+    
+    * translate to spanish table_generation.md (#533)
+    
+    * translate to spanish introduction.md
+    
+    * translate to spanish table_generation.md
+    
+    * translate to spanish: writing_emails.md (#550)
+    
+    * translate to spanish introduction.md
+    
+    * translate to spanish table_generation.md
+    
+    * translate to spanish writing_emails.md
+    
+    * corrected accentuation (#548)
+    
+    * fix: broken link (#553)
+    
+    * fix: broken link
+    
+    * fix: cold email prompt mistake
+    
+    * fix: update betterprompt link (#554)
+    
+    * fix: update betterprompt link
+    
+    * feat: add jailbreakchat site
+    
+    * feat: PTPT
+    
+    * Powerpoint Generation add Superus (#558)
+    
+    * translate: chatbot_basics.md to japanese (#557)
+    
+    * Fix external link to LongChain MRKL example (#556)
+    
+    * typo: fix wrongly translated format string (#555)
+    
+    * doc: Translate Structuring Data to Chinese
+    
+    * typo: fix wrongly translated format string
+    
+    * Misleading prompts (#493)
+    
+    * Update bibliography.bib
+    
+    * Update intro.md
+    
+    * edit: clarity
+    
+    * Update Japanese translation of intro.md. (#560)
+    
+    * Finished fixing the word-wrapping issues (#567)
+    
+    * Introduced word wrapping to code blocks for easier reading
+    
+    * Introduced word wrapping to code blocks for easier reading
+    
+    * Finished fixing word wrapping issue.
+    
+    ---------
+    
+    Co-authored-by: TrustyBeard <thevalhallnumber5@gmail.com>
+    
+    * Translate: world.md to japanese (#566)
+    
+    * Improve first chapter (#568)
+    
+    * feat: intermeiate edits
+    
+    * feat: new pages
+    
+    * feat: main commit
+    
+    * feat: add context note
+    
+    * feat: improve word
+    
+    * translate to spanish blog_generation.md and a details of writing_emails.md (#565)
+    
+    * translate to spanish introduction.md
+    
+    * translate to spanish table_generation.md
+    
+    * translate to spanish writing_emails.md
+    
+    * translate to spanish blog_generation.md and a details of writing_emails.md
+    
+    * translate to spanish study_tool.md
+    
+    * translate to spanish study_tool.md
+    
+    * translate a sub-title
+    
+    * translate some text
+    
+    * feat: louis interview
+    
+    * [pt][fix] typo (#571)
+    
+    * translate to spanish coding_assistance.md and edit a detail in the file writing_emails.md (#570)
+    
+    * fix: coding assistance to yellow
+    
+    * Translate: side menu items into Japanese (#573)
+    
+    * feat: NDA def
+    
+    * French (#575)
+    
+    * feat: french intro
+    
+    * fix link
+    
+    * fix: remove lines
+    
+    * translate to spanish emojis.md (#574)
+    
+    * translate to spanish coding_assistance.md and edit a detail in the file writing_emails.md
+    
+    * translate to spanish emojis.md
+    
+    * translate to spanish contract.md
+    
+    * translate to spanish writing_in_diff_voices.md
+    
+    * feat: add korean translation for basic_application/introduction.md and writing emails.md
+    
+    * feat: add korean translate for basic_application/study_tool.md
+    
+    * feat: add korean translation for basic/few_shot.md
+    
+    * feat: add korean translation for basic/combining_techniques.md
+    
+    * feat: add korean translation for basic/formalizing.md
+    
+    * feat: add korean translate for basic_application/study_tool.md
+    
+    * feat: add korean translation for basic/few_shot.md
+    
+    * feat: add korean translation for basic/combining_techniques.md
+    
+    * feat: add korean translation for basic/formalizing.md
+    
+    * fix: Change the file loading location
+    
+    * feat: add korean translation for basic/configuration_khyperparameters.md and basic/pitfalls.md
+    
+    * feat: korean translation for basics/starting_your_journey.md
+    
+    ---------
+    
+    Co-authored-by: trigaten <sanderschulhoff@gmail.com>
+    Co-authored-by: Elijah <14240674+elijahcommits@users.noreply.github.com>
+    Co-authored-by: Mohit Gangrade <84750225+gangradem@users.noreply.github.com>
+    Co-authored-by: Kresna Sucandra <kresnasucandra@gmail.com>
+    Co-authored-by: Bharat Raghunathan <bharatraghunthan9767@gmail.com>
+    Co-authored-by: Zach Zhao <zachzhao@startupshell.org>
+    Co-authored-by: Sjotie <sjoerd.tiem@gmail.com>
+    Co-authored-by: Stephen Fraga <63623773+stephenfraga@users.noreply.github.com>
+    Co-authored-by: Aleksei Adamov <74925431+AlekseiAdamov@users.noreply.github.com>
+    Co-authored-by: Toni Engelhardt <toni88x@gmail.com>
+    Co-authored-by: dr-nefardio3058 <124001513+dr-nefardio3058@users.noreply.github.com>
+    Co-authored-by: Daniel Avila <dan.avila7@gmail.com>
+    Co-authored-by: punkshiraishi <pharmacy.sy@gmail.com>
+    Co-authored-by: Pandazki <onlrrr@gmail.com>
+    Co-authored-by: Toshiro Koba <56726628+toshiro-koba@users.noreply.github.com>
+    Co-authored-by: StellaBae <73094652+StellaBae@users.noreply.github.com>
+    Co-authored-by: David Alvarez <48391594+aalvag@users.noreply.github.com>
+    Co-authored-by: Carlos Vinueza <chinesco@users.noreply.github.com>
+    Co-authored-by: Aaron Gustafson <aaron@easy-designs.net>
+    Co-authored-by: Alex Doria <red-81@live.com>
+    Co-authored-by: Cristóbal Villarroel <cristobal.villarroelalvarado@gmail.com>
+    Co-authored-by: Niloy Julious <niloyjulious@gmail.com>
+    Co-authored-by: NaN03 <73582053+hatrd@users.noreply.github.com>
+    Co-authored-by: Marcus Eley <marcus.eley@gmail.com>
+    Co-authored-by: TrustyBeard <thevalhallnumber5@gmail.com>
+    Co-authored-by: Ruinan Zhang <zhangruinan@smoothnlp.com>
+    Co-authored-by: Alex <bzz@users.noreply.github.com>
+    Co-authored-by: Luke Currier <115105781+Dastardi@users.noreply.github.com>
+    Co-authored-by: Yuya Jeremy Ong <yuyajeremyong@gmail.com>
+    Co-authored-by: j0n4t <j0n4tfds@gmail.com>
+
+[33mcommit 981eb91980e49bf9e2a2ed90469cc18f84636610[m
+Author: Wahub Ahmed <56009292+wahub-ahmed@users.noreply.github.com>
+Date:   Mon May 1 09:51:51 2023 -0400
+
+    Add Agents (#684)
+    
+    * Add Auto-GPT
+    
+    * Add Baby AGI and AgentGPT
+    
+    * Update bibliography.bib
+    
+    * Added Hot Topics
+    
+    * Update Link
+    
+    * Add citations
+    
+    * feat: quick agents description
+    
+    * feat: link
+    
+    ---------
+    
+    Co-authored-by: trigaten <sanderschulhoff@gmail.com>
+
+[33mcommit 6f786938d39619640d265cbe7a8c7f36c090d3fa[m
+Author: Anaum Khan <anaumkhan10@gmail.com>
+Date:   Mon May 1 00:37:31 2023 -0400
+
+    Fixing the hero heading (#687)
+    
+    * fix: competition description
+    
+    * fix: remove window
+    
+    ---------
+    
+    Co-authored-by: trigaten <sanderschulhoff@gmail.com>
+
+[33mcommit b9c359d3ee56608686118d9276567b14c0edc010[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Sun Apr 30 22:57:08 2023 -0400
+
+    fix: broken link
+
+[33mcommit 148cb25864beea3f8d216b1b53d8d60c31930ec7[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Sun Apr 30 21:59:54 2023 -0400
+
+    fix: 35K
+
+[33mcommit f558a97a561195b23782ffc41253c920fa910ec9[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Sun Apr 30 21:58:43 2023 -0400
+
+    fix: hotpatch learn links
+
+[33mcommit 9ce40daf21d3d5392760427741dfcc14a8c95c6a[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Sun Apr 30 20:52:08 2023 -0400
+
+    fix: remove window usage from width check
+
+[33mcommit 30279090035027bcfb3ded1e1029ba3f49b2e509[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Sun Apr 30 20:44:57 2023 -0400
+
+    fix: window usage
+
+[33mcommit f6c69b2baece1200b06205cd584dde904e813edb[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Sun Apr 30 20:43:00 2023 -0400
+
+    fix: move subsections out
+
+[33mcommit 874c94a2fb9438b9a2634ee27a1c79f2d2b336cd[m
+Merge: 4abfe582cc ac90b81409
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Sun Apr 30 20:36:59 2023 -0400
+
+    fix: some window usage
+
+[33mcommit ac90b81409e4492314f28a0ca5dcba7549f917df[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Sun Apr 30 20:33:23 2023 -0400
+
+    fix: some window usage
+
+[33mcommit 25afe5a63d20881ee4332d28e741754c88e37de9[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Sun Apr 30 20:08:40 2023 -0400
+
+    fix: move subsections out of pages
+
+[33mcommit 4abfe582cc1856673dfd6ff2ac9126f53a75303b[m
+Author: trigaten <sanderschulhoff@gmail.com>
+Date:   Sun Apr 30 19:54:29 2023 -0400
+
+    New site (#668)
+    
+    * Test
+    
+    * FAQ Page Test
+    
+    * feat: add questions
+    
+    * feat: more faq
+    
+    * feat: more faq
+    
+    * feat: more faqs
+    
+    * added answers
+    
+    * saving for u
+    
+    * fix: include key
+    
+    * fix: improve hero text wrapping
+    
+    * feat: real links
+    
+    * fix: links
+    
+    * fix: temp links
+    
+    * fix: temp link fix
+    
+    * feat: email sign up
+    
+    * feat: use array
+    
+    * Blog (#670)
+    
+    * feat: blog/comp info
+    
+    * feat: small clarifications
+    
+    * F
+    
+    * featL updarte blog
+    
+    * feat: huge prompt hacking update
+    
+    * fix: \hat problems
+    
+    * feat: blog
+    
+    * feat: add blog to navbar
+    
+    * New Landing Page Update
+    
+    * Added the blog tab and fixed the FAQ heading
+    
+    * fix: merge conflict
+    
+    * fix: bottom astronaut image
+    
+    * fix: changed the icon layout
+    
+    * fix: lock image
+    
+    * fix: links
+    
+    * fix: stop tailwind from effecting docs
+    
+    * fix: added the lock svg to the competition panel
+    
+    * feat: improve dual nav
+    
+    * Fixed the spacing for the hero layout
+    
+    * fix: dont display all links
+    
+    * fix: spacing of the headers
+    
+    * fix: color to black
+    
+    * fix: change contact us color to grey
+    
+    * fix: add dalle caption
+    
+    * fix: color black
+    
+    * Fixed the competition layout spacing to be aligned
+    
+    * fix: sitting astronaut
+    
+    * fix: dark mode no longer affects landing page
+    
+    * fix: formatting
+    
+    * fix: fixed the position of the lock and text in the competition panel and changed the spacing the the get started section
+    
+    * feat: move astronaut to right
+    
+    * fix: get started
+    
+    * feat: mobile optimizations
+    
+    * made sure the png is center aligned in the competition panel
+    
+    * fix: changed the sizing of the get started subheading
+    
+    * fix: mobile optimizations
+    
+    * fix: changed the panels to be svgs
+    
+    * merge conflict
+    
+    * added the scrolling functionality to switch panels for the beginner, intermediate, advanced and applications level
+    
+    * added the carousel for the company logos to be displayed as sponsors for the HackAPrompt competition
+    
+    * fix: improve astronaut centering
+    
+    * fix: improve word spacing
+    
+    * fix: improve centering of text above astronaut
+    
+    * fix: faq title spacing
+    
+    * fix: changed the carousel so that it would not reset and instead just continously cycle through the logos
+    
+    * fix: changed the sizing of the subheading of the hero
+    
+    * fix: the arrow position for the FAQ page
+    
+    * fix: padding
+    
+    * fix: added line breaks to all displays for the subheadings
+    
+    * fix: spacing between the stats
+    
+    * fix: imports and deleting the scrollingtext component
+    
+    * fix: get started section updated to include a clear subheading
+    
+    * fix: the size and spacing of the logos and the stats
+    
+    * fixed the sizing the get started section
+    
+    * fix: competition subheading size
+    
+    * fix: colors in dark mode
+    
+    * fix: more colors in darkmode
+    
+    * fix: the overflow problem with the panels on the hero and the color of the intermediate, advanced and applications button when selected
+    
+    * updated the docusaurus config file
+    
+    ---------
+    
+    Co-authored-by: anaumkhan <anaumkhan10@gmail.com>
+    Co-authored-by: Luke Currier <115105781+Dastardi@users.noreply.github.com>

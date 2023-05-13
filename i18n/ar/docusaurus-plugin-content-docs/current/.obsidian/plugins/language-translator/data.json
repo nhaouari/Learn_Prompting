@@ -1,0 +1,17 @@
+{
+  "targetLanguage": {
+    "text": "Arabic",
+    "code": "ar"
+  },
+  "apiType": {
+    "text": "LibreTranslate",
+    "value": "2"
+  },
+  "translateApiUrl": "https://libretranslate.com/translate",
+  "maxCharacters": 2000,
+  "token": "",
+  "region": {
+    "text": "Global",
+    "code": "global"
+  }
+}

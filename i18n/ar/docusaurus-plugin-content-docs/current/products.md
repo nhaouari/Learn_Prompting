@@ -2,141 +2,152 @@
 sidebar_position: 2500
 ---
 
-# 📦 Prompted Products
+# 📦 المنتجات الموجهة (باستعمال الأوامر) :
 
-Here is a growing list of notable products that use prompting. If you have a product that you would like to add, please [open a PR](https://github.com/trigaten/Learn_Prompting/pulls).
 
-## Content Writing
+فيما يلي قائمة محدثة بالمنتجات البارزة التي تستخدم هندسة الأومر . إذا كان لديك منتج ترغب في إضافته ، فيرجى القيام بـ [PR](https://github.com/trigaten/Learn_Prompting/pulls) على Github.
+
+
+## كتابة المحتوى
 
 - [Agent.so](https://www.agent.so/)
-> All-in-one platform that helps you use AI to write content & code, solve problems, have fun, and more! Powered by over 150 uniquely trained models, and ±200 apps being released to the new AI App Store. New members get unlimited chats and 100 Credits App Store for free.
+> منصة الكل في واحد التي تساعدك على استخدام الذكاء الاصطناعي لكتابة المحتوى ، البرمجية ،حل المشكلات والاستمتاع والمزيد! مدعوم بأكثر من 150 نموذج مدرب بشكل فريد ، وتم إصدار ±200 تطبيق إلى متجر تطبيقات الذكاء الاصطناعي الجديد. يحصل الأعضاء الجدد على محادثات غير محدودة و 100 Credits App Store مجانا.
+
 
 - [ID-Assist™](https://id-assist.co/)
-> An eLearning and classroom training storyboard automation tool, to help Instructional Designers automate creation of Course Outline, Learning Objecives, Assessments, Scenarios, and lot more.
+> أداة أتمتة لوحة العمل في مجالي التعليم الإلكتروني والتقليدي ، لمساعدة المصممين التعليميين على أتمتة إنشاء مخططات دوراتهم التدريبية ، أهداف التعلم ، التقييمات ، السيناريوهات وغير ذلك الكثير.
+
 
 - [Writers brew AI](https://writersbrew.app)
-> One AI assistant that works across all apps & browsers. It can WRITE. IMPROVE. REPLY. SUMMARIZE. EXPLAIN & TRANSLATE. It has inbuilt OCR engine, and can extract text + generate AI text.
+> مساعد الذكاء الاصطناعي الأوحد الذي يعمل عبر جميع التطبيقات والمتصفحات. يمكنه الكتابة، التحسين، الإجابة ، التلخيص  الشرح و الترجمة. يحتوي داخله على محرك OCR  ويمكنه استخراج النصوص وإنشائها عبر الذكاء الاصطناعي.
+
 
 - [Simplified](https://simplified.com/ai-writer/)
-> Generate copy with text prompts for business bios, facebook ads, product descriptions, emails, landing pages, YouTube descriptions, taglines, and more.
+> باستعمال الأوامر النصية قم بإنشاء محتوى السير الذاتية للأعمال ،إعلانات Facebook ،أوصاف المنتجات ، رسائل البريد الإلكتروني صفحات الهبوط ، أوصاف الـ YouTube ، الكلمات المفتاحية والمزيد.
+
 
 - [Frase](https://www.frase.io/)
-> Keywords as prompts for research, write, and optimize high-quality SEO content.
+> الكلمات المفتاحية كأوامر للبحث والكتابة وتحسين محتوى SEO عالي الجودة.
+
 
 - [Letterdrop](https://letterdrop.com/)
-> B2B content marketing copies with prompts for idea, title, keywords, and blog generation.
+>محتوى تسويق B2B باستعمال الأوامر PE للفكرة والعنوان والكلمات المفتاحية وإنشاء التدوينات.
+
 
 - [AI21 Labs](https://www.ai21.com/)
-> Writing companion tool that helps rephrase writing to say exactly what user means with base text as prompts.
+> أداة مصاحبة للكتابة تساعد في إعادة صياغة الكتابة لتقول بالضبط ما يعنيه المستخدم بااستعمال الأوامر prompts.
 
 - [Novel AI](https://novelai.net/)
-> AI-assisted authorship, storytelling, virtual companionship with perspective based input as prompts.
+>التأليف بمساعدة الذكاء الاصطناعي ،رواية القصص ،الرفقة الافتراضية مع مدخلات قائمة على أوامر prompts
 
 - [Inferkit](https://inferkit.com/)
-> Web interface (Text) and Developer API prompts for AI–based text generation.
+>> واجهة الموقع (النصية) وواجهة برمجة تطبيقات Api لإنشاء نص يستند إلى الذكاء الاصطناعي.
+
 
 - [Chibi](https://chibi.ai/)
-> AI writing for blog, websites, and books with dynamic user-controlled context as prompts.
+> الذكاء الاصطناعي للكتابة : للمدونات ،مواقع الويب والكتب ذات السياق الديناميكي الذي يتحكم فيه المستخدم كأوامر.
 
 - [sudowrite](https://www.sudowrite.com/)
-> Type in a concept as prompt and First Draft will generate up to 1000 words.
+> اكتب مفهوما على شكل أمر وستنشئ المسودة الأولى ما يصل إلى 1000 كلمة.
 
 - [Rytr](https://rytr.me/)
-> Choose your use-case and add some input for context as prompts.
+> اختر حالة الاستخدام الخاصة بك وأضف بعض المدخلات للسياق كأوامر.
+
 
 - [Copy AI](https://www.copy.ai/)
-> Text prompt for content generation including blog titles, bodies, intros, emails, and more.
+> أوامر نصية لإنشاء المحتوى بما في ذلك عنوان التدوينة ،العرض ، المقدمات ورسائل البريد الإلكتروني والمزيد.
 
 - [Jasper](https://www.jasper.ai/)
-> Jasper is the AI Content Generator for blogs, emails, and social media captions with built-in and text prompts.
+> ـJasper هو ذكاء الاصطناعي منشئ لمحتوى المدونات ،رسائل البريد الإلكتروني و الأوصاف التوضيحية للوسائل التواصل الاجتماعي مع موجه أوامر مضمن.
 
 - [Text Cortex](https://textcortex.com/)
-> Marketing, sales and website copy with blog title and keywords as prompts and multiple settings like tone, style, purpose, etc.
+> التسويق ،المبيعات ومحتوى مواقع الويب مع عنوان التدوينة والكلمات المفتاحية باستعمال الأوامر وإعدادات متعددة مثل الحالة والأسلوب والغرض وما إلى ذلك.
 
 - [Subtxt](https://subtxt.app/)
-> Narrative storytelling and productivity tool for storytellers with objective aspects of your narrative premise as prompts.
+> أداة لسرد القصص وزيادة إنتاجية رواة القصص بموضوعية لفرضيتك السردية باستعمال الأوامر .
 
 - [Laika](https://www.writewithlaika.com/)
-> Creative partner that you train to write like you (or anyone you want). Made for creative writers, game writers, and all other fiction fabricators. Base content works as a prompt of extending content/character descriptions, etc.
+> شريك مبدع تدربه على الكتابة بأسلوبك (أو أي شخص تريده). مصمم للكُتّاب المبدعين وكُتّاب الألعاب وجميع صانعي الخيال. يعمل المحتوى الأساسي كأوامر لتوسيع أوصاف المحتوى / الشخصيات ، إلخ.
 
 - [Compose AI](https://www.compose.ai/)
-> AI-powered autocompletion & text generation with basic sentences/simple text descriptions as prompts.
+> الإكمال التلقائي المدعوم بالذكاء الاصطناعي وإنشاء النصوص باستعمال الجمل الأساسية / أوصاف النص البسيطة كأوامر.
 
 - [Moonbeam](https://www.gomoonbeam.com/)
-> Long-form writing AI assistant trained to write essays, stories, articles, blogs with templates that uses titles and basic single phrase ideas as prompts.
+> ذكاء اصطناعي مساعد على الكتابة الطويلة ، مدرب على كتابة المقالات، القصص والتدوينات مع القوالب التي تستخدم العناوين والأفكار الاساسية القاعدية كأوامر.
 
 - [Anyword](https://anyword.com/)
-> AI writer that generates and optimizes your copy with powerful predictive analytics. Incorporate keywords, choose your ideal length as prompts.
+> كاتب ذكاء اصطناعي يقوم بإنشاء محتواك وتحسينه باستخدام تحليلات تنبؤية قوية. دمج الكلمات المفتاحية ، واختيار الطول المثالي كأوامر .
 
 - [Hypotenuse AI](https://www.hypotenuse.ai/)
-> Provide a few keywords as prompts and turn them into full-length articles and marketing content.
+> قدم فقط بعض الكلمات الرئيسية كأوامر وقم بتحويلها إلى مقالات كاملة ومحتوى تسويقي.
 
 - [Peppertype](https://www.peppertype.ai/)
-> Virtual Content Assistant.
+> مساعد محتوى افتراضي.
 
 - [Writely AI](https://www.writelyai.com/)
-> Cut down on your words, elaborate further or rephrase a sentence with text prompts.
+> قلل من كلماتك أو وضح أكثر أو أعد صياغة جملة باستعمال أوامر نصية.
 
 - [Boo.ai](https://boo.ai/)
-> AI-powered writing assistant with templates, smart autocomplete, and built-in assistant.
+>مساعد كتابة مدعوم بالذكاء الاصطناعي مع قوالب ، إكمال تلقائي ذكي و مساعِد مدمج.
 
 - [Sotsy](https://sotsy.com/)
-> Enter home details as prompts to generate real estate listing.
+> أدخل تفاصيل المنزل كأوامر لإنشاء قائمة عقارات.
 
 - [SmartWriter](https://www.smartwriter.ai/)
-> AI to create highly personalised cold emails or Linkedin messages.
+> الذكاء الاصطناعي لإنشاء رسائل بريد إلكتروني مخصصة للغاية أو رسائل Linkedin.
 
 - [Socialbu](https://socialbu.com/tools/generate-posts)
-> Content for your social media posts. Generate ready-to-post content for your social media with text prompts.
+> محتوى لمنشوراتك على وسائل التواصل الاجتماعي. قم بإنشاء محتوى جاهز للنشر لوسائل التواصل الاجتماعي الخاصة بك باستخدام أوامر نصية.
 
 - [NovusWriter](https://novuswriter.ai/)
-> Create written and visual content with text prompts.
+> أنشئ محتوى مكتوب ومرئي باستعمال أوامر نصية.
 
 - [Automata](https://byautomata.io/)
-> Repurpose blogs and videos as LinkedIn posts, Twitter threads, and newsletters.
+> أعد توظيف وصياغة التدوينات ومقاطع الفيديو لتصبح منشورات LinkedIn وسلاسل تغريدات Twitter ونشرات إخبارية.
 
 - [Decktopus](https://www.decktopus.com/)
-> This is a free AI-generated prompt template that helps you create captivating product launch copy.
+> قالب أوامر مجاني تم إنشاؤه بواسطة الذكاء الاصطناعي يساعدك على إنشاء نسخة إطلاق منتج رائعة.
 
 - [Fact GPT](https://www.longshot.ai/features/longshot-fact-gpt)
-> Generate fresh and relevant user-sourced content with citations.
+> قم بإنشاء محتوى جديد وملائم باستعمال مصادر المستخدم مع استشهادات.
 
 - [Personal AI](https://www.personal.ai/)
-> A platform that allows users to create their own intelligent personal AI that can generate new ideas, recall key concepts, and write original content.
+> منصة تتيح للمستخدمين إنشاء شخصية ذكاء اصطناعي ذكية خاصة بهم يمكنها توليد أفكار جديدة وتذكر مفاهيم أساسية وكتابة محتوى أصلي.
 
 - [Elephas](https://elephas.app/)
-> Personal AI Writing Assistant from proposals and cover letters to blogs and creating social media posts.
+>مساعد كتابة شخصي بالذكاء الاصطناعي تتراوح خدماته مابين المقترحات ورسائل التوصية إلى التدوينات وإنشاء منشورات على وسائل التواصل الاجتماعي.
 
 - [Glasp](https://glasp.co/ai-writing)
-> Newsletter writing tool by training your personalized AI models.
+>أداة كتابة رسائل إخبارية من خلال تدريب نماذج الذكاء الاصطناعي الخاصة بك.
 
 ## Automatically Build a Tool
+## بناء أداة تلقائيا
 
 - [Toolbot](https://toolbot.ai)
-> Build custom GPT-3 tools with text prompts.
+> قم بإنشاء أدوات GPT-3 مخصصة باستعمال أوامر نصية.
 
 - [Mutable AI](https://mutable.ai/)
-> AI Accelerated software development with descriptive text prompts.
+> ذكاء اصطناعي لتسريع تطوير البرمجيات باستعمال أوامر نصية وصفية.
 
 - [Kili](https://www.kili.so/)
-> Kili is an AI-powered assistant platform for personalised experiences without using code.
+> ـKili عبارة عن منصة مساعدة تعمل بنظام ذكاء اصطناعي للتجارب المخصصة دون استخدام التعليمات البرمجية.
 
 - [Prisms](https://prisms.ai/)
-> Stack together data sources, user inputs, and off-the-shelf building blocks to create your app.
+> قم بتجميع مصادر البيانات، مدخلات المستخدم والكتل البرمجية الإنشائية الجاهزة لإنشاء تطبيقك.
 
 - [Sutro](https://withsutro.com/)
-> Software development using GPT-3 with text prompts.
+> تطوير البرمجيات باستخدام GPT-3 باستعمال أوامر نصية.
 
 - [Aspen](https://www.getaspenai.com/)
-> Aspen is a low-code platform for building generative AI web apps.
+> ـ Aspen عبارة عن منصة منخفضة التعليمات البرمجية (لا تتطلب تعمقا في البرمجة) لبناء تطبيقات ويب ذكاء اصطناعي توليدية.
 
 - [Debuild](https://debuild.app/)
-> Code your web app in seconds. The AI-powered low-code tool that helps you build web apps with text and built-in prompts.
+> قم ببرمجة تطبيق الويب الخاص بك في ثوان. الأداة منخفضة التعليمات البرمجية للذكاء الاصطناعي التي تساعدك في إنشاء تطبيقات الويب باستعمال الأوامر النصية المضمنة.
 
 - [ToolBuilder](https://toolbuilder.ai/)
-> Toolbuilder is the platform for building and discovering AI web apps without coding.
+> ـToolbuilder هي منصة لبناء واكتشاف تطبيقات ويب ذكاء اصطناعي دون الحاجة للبرمجة.
 
-## Search Engines
+## محركات البحث
 
 - [Perplexity](https://www.perplexity.ai/)
 
@@ -145,21 +156,21 @@ Here is a growing list of notable products that use prompting. If you have a pro
 - [Neeva](https://neeva.com/)
 
 - [Phind](https://phind.com/)
-> The AI search engine for instant answers with text prompts.
+> محرك بحث ذكاء اصطناعي للحصول على إجابات فورية باستعمال أوامر نصية.
 
 - [Lexica](https://lexica.art/)
-> The Stable Diffusion search engine that uses texts as prompts.
+> محرك بحث Stable Diffusion الذي يستخدم النصوص كأوامر.
 
 - [Lexii](https://lexii.ai/)
-> Lexii is an AI search assistant that can answer questions.
+> ـ Lexii هو مساعد بحث ذكاء اصطناعي يمكنه الإجابة على الأسئلة.
 
 - [Komo](https://komo.ai/)
-> Komo Search leverages generative AI to put your search journeys first, instead of a laundry list of links.
+> ـKomo Search يستعمل الذكاء الاصطناعي التوليدي لوضع مسيرتك في البحث أولا ، بدلا من قائمة طويلة بالروابط.
 
 - [Metaphor](https://metaphor.systems/)
-> Web search using the same ideas behind DALL-E and Stable Diffusion. It understands language — in the form of prompts — so you can say what you're looking for in all the expressive and creative ways you can think of.
+> البحث في الويب باستخدام نفس الأفكار وراء DALL-E و Stable Diffusion . هو يفهم اللغة - على شكل أوامر - حتى تتمكن من قول ما تبحث عنه بكل الطرق التعبيرية والإبداعية التي يمكنك التفكير فيها.
 
-## Chatbots
+## Chatbots روبوتات المحادثة
 
 - [Agent.so](https://www.agent.so/)
 
@@ -169,415 +180,423 @@ Here is a growing list of notable products that use prompting. If you have a pro
 
 - [Anthropic Claude](https://scale.com/blog/chatgpt-vs-claude#What%20is%20%E2%80%9CConstitutional%20AI%E2%80%9D?)
 
-## Browser Extensions
+
+## إضافات المتصفح
 
 - [Superpower ChatGPT](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc)
-> Adds extra functionality to ChatGPT user interface including prompt library, export chats, safe mode control, history, copy full chat.
+> أضف وظائف إضافية إلى واجهة مستخدم ChatGPT بما في ذلك مكتبة الأوامر ، قم بتصدير الدردشات ، التحكم في الوضع الآمن ، التاريخ ونسخ الدردشة بشكل كامل.
 
 - [WebChatGPT](https://chrome.google.com/webstore/detail/webchatgpt/lpfemeioodjbpieminkklglpmhlngfcn)
-> Augment your ChatGPT prompts with relevant results from the web.
+> قم بزيادة أوامر ChatGPT الخاصة بك مع النتائج ذات الصلة من الويب.
 
-## Personal Assistants
+## المساعدون الشخصيون
 
 - [xp1](https://xp1.dust.tt)
-> GPT-based Assistant with access to your Tabs.
+> مساعد قائم على GPT مع إمكانية الوصول إلى علامات التبويب الخاصة بك.
 
 - [ACT-1](https://www.adept.ai/act)
-> Adept is an ML research and product lab building general intelligence.
+> ـ Adept هو مختبر أبحاث ML و كذلك مختبر بناء منتجات الذكاء العام.
 
 - [MealsAI](https://www.mealsai.com/)
-> MealsAI is a tool that helps create unique recipes from any ingredients or dietary restrictions.
+> ـMealsAI هي أداة تساعد على إنشاء وصفات فريدة من أي مكونات أو حميات غذائية.
 
 - [Vowel](https://www.vowel.com/)
-> Vowel AI's automated meeting summaries.
+> ملخصات اجتماعات آلية باستعمال الذكاء الاصطناعي.
 
 - [Mathly](https://mathly.webflow.io/)
-> Take a photo, and AI solves your math problem and explains it in a way that actually makes sense.
+> التقط صورة ، وسيقوم الذكاء الاصطناعي بحل مشكلتك الرياضية وشرحها بطريقة منطقية .
 
-### Research Assistants
+### مساعدو البحث
 
 - [Elicit](https://elicit.org)
-> Language models to help you automate research workflows, like parts of literature review.
+> نماذج لغة لمساعدتك على أتمتة سير عمل البحث ، مثل أجزاء من المراجعات الأدبيات.
 
 - [ValidatorAI](https://www.validatorai.com/)
-> ValidatorAI.com is a free AI business validator tool that allows users to input their startup idea and receive objective feedback and criticism from an AI.
+> ـValidatorAI.com هي أداة ذكاء اصطناعي مجانية للتحقق من صحة الأعمال تتيح للمستخدمين إدخال فكرة شركتهم الناشئة الخاصة بهم وتلقي ملاحظات وانتقادات موضوعية من الذكاء الاصطناعي.
 
 - [HoustonAI](https://houston.astro.build/)
-> HoustonAI is an experiment to build an automated support bot (documentation) to assist Astro users.
+> ـHoustonAI هي تجربة لبناء روبوت دعم آلي (توثيق) لمساعدة مستخدمي Astro.
 
 - [SciSpace](https://typeset.io/)
-> Your AI Copilot to decode any research paper. The quickest way to read and understand scientific literature.
+> مساعد الذكاء الاصطناعي الخاص بك لفك تشفير أي ورقة بحثية. أسرع طريقة لقراءة وفهم الأدبيات العلمية.
 
 - [Scholarcy](https://www.scholarcy.com/)
-> The online article summarizer tool, reads your research articles, reports and book chapters in seconds and breaks them down into bite-sized sections.
+> تقوم أداة تلخيص المقالات عبر الإنترنت بقراءة مقالاتك البحثية وتقاريرك وفصول الكتب في ثوان وتقسيمها إلى أقسام صغيرة الحجم.
 
-### Email Assistants
+### مساعدو البريد الإلكتروني
 
 - [Ellie](https://ellieai.com)
-> An AI email assistant that helps users craft intelligent replies to emails in any language with context from the email thread.
+> مساعد بريد إلكتروني بالذكاء الاصطناعي يساعد المستخدمين على صياغة ردود ذكية على رسائل البريد الإلكتروني بأي لغة مع الاخذ بعين الاعتبار سياق سلسلة رسائل البريد الإلكتروني.
 
 - [Writesonic](https://writesonic.com/)
-> SEO-optimized and plagiarism-free content for your blogs, ads, emails, and website with summary of the topic as prompts.
+> محتوى SEO محسن وخالي من الانتحال لمدوناتك وإعلاناتك ورسائل البريد الإلكتروني وموقع الويب الخاص بك مع ملخص للموضوع كأوامر .
 
 - [Copysmith](https://copysmith.ai/)
-> Text summary, and tone/language setting as prompt for content generation including blog titles, bodies, intros, emails, and more.
+> ملخص النص وإعداد النبرة / اللغة كموجه أوامر لإنشاء المحتوى بما في ذلك عناوين المدونات وعرض المدونة والمقدمات ورسائل البريد الإلكتروني والمزيد.
 
 - [Flowrite](https://www.flowrite.com/)
-> Email writing based on instruction and context based prompts about the output.
+> كتابة البريد الإلكتروني بناء على تعليمات وأوامر مستندة إلى السياق حول المخرجات.
 
 - [VoiceType](https://voicetype.io/)
-> VoiceType is a Chrome browser extension that helps users write emails quickly and easily. It uses AI to generate emails based on verbal descriptions provided by the user.
+> ـ VoiceType هي إضافة لمتصفح Chrome يساعد المستخدمين على كتابة رسائل بريد إلكتروني بسرعة وسهولة. يستخدم الذكاء الاصطناعي لإنشاء رسائل بريد إلكتروني بناء على الأوصاف اللفظية التي يقدمها المستخدم.
 
 - [EmailMagic](https://www.emailmagic.ai/)
-> AI assistant that helps you write emails by analyzing your email data and matching your writing style.
+> مساعد ذكاء اصطناعي في كتابة رسائل البريد الإلكتروني من خلال تحليل بيانات بريدك الإلكتروني ومطابقة أسلوبك في الكتابة.
 
 - [Reply.io](https://reply.io/)
-> Reply.io's is an sales email tool that helps users create human-like emails with text prompts.
+> ـReply.io هي أداة بريد إلكتروني للمبيعات تساعد المستخدمين على إنشاء رسائل بريد إلكتروني شبيهة بالإنسان باستخدام أوامر نصية.
 
 - [Respondable](https://www.boomeranggmail.com/respondable/)
-> AI-driven assistant that helps you write better, more effective emails in real time. It provides actionable advice on how to improve your emails, while giving you insight into your own writing style.
+> مساعد ذكاء اصطناعي يساعدك على كتابة رسائل بريد إلكتروني أفضل وأكثر فعالية في الوقت الفعلي. يوفر نصائح قابلة للتنفيذ حول كيفية تحسين رسائل البريد الإلكتروني الخاصة بك ، مع إعطائك نظرة ثاقبة لأسلوب الكتابة الخاص بك.
 
 - [EmailIQ](https://www.emailiq.org/)
-> Email rewriter with email drafts as prompts.
+> إعادة كتابة البريد الإلكتروني من خلال مسودات البريد الإلكتروني باستعمال توجيهات الأوامر.
 
 - [PolitePost](https://www.politepost.net/)
-> Rewriting your emails with rough emails as prompts.
+الخاصة بك من خلال رسائل البريد الإلكتروني الخام باستعمال توجيهات الأوامر .
 
-## Data Analysis
+
+## تحليل البيانات
 
 - [Research AI](https://research-ai.io/)
-> Upload your data as prompts for tools like prediction, text analysis.
+> قم بتحميل بياناتك كأوامر لأدوات مثل أدوات التنبؤ وتحليل النصوص.
 
 - [Mutiny](https://www.mutinyhq.com/)
-> Audience and content suggestions powered by AI with data sources as prompts. Connect Mutiny to your tools and data sources. Choose from AI audience suggestions or build your own custom audiences from any connected data.
+> اقتراحات للمحتوى والجمهور مدعومة بالذكاء الاصطناعي باستعمال مصادر البيانات كأوامر. قم بتوصيل Mutiny بأدواتك ومصادر البيانات الخاصة بك. اختر من بين اقتراحات الذكاء الاصطناعي جمهورك أو أنشئ جمهورك المخصص من خلال أي بيانات متصلة.
 
 - [Viable](https://www.askviable.com/)
-> Automate your qualitative data analysis without compromising quality.
+> قم بأتمتة تحليل بياناتك النوعية دون المساس بالجودة.
 
 - [Akkio](https://www.akkio.com/)
-> Data with a prediction machine and data science support.
+> البيانات مع آلة التنبؤ ودعم علوم البيانات.
 
 - [Olli](https://www.olli.ai/)
-> AI data platform that answers data questions and actively generates insights.
+> منصة بيانات ذكاء اصطناعي تجيب على أسئلة البيانات وتولد رؤى بشكل مستمر .
 
 - [Anote](https://tryanote.com/)
-> AI-assisted data labeling platform that accelerates the labeling process for unstructured text data.
+> منصة تصنيف البيانات بمساعدة الذكاء الاصطناعي التي تسرع عملية التصنيف لبيانات النصية غير المهيكلة.
 
 - [TableTalk](https://www.tabletalk.ai/)
-> A better way to interact with your database in a familiar chat-like interface.
+> طريقة أفضل للتفاعل مع قاعدة البيانات الخاصة بك عبر واجهة مألوفة تشبه الدردشة.
 
 - [SQL Genie](https://sqlgenie-co.web.app/)
-> Generate database queries from plain-english description using AI.
+> قم بإنشاء استعلامات لقاعدة البيانات من خلال وصف باللغة الإنجليزية البسيطة باستخدام الذكاء الاصطناعي.
 
 - [FlexBerry](https://ai.flexberry.net/)
-> AI Assistant for Business Analyst. Automate some part of the analyst's daily routine work.
+> مساعد ذكاء اصطناعي لمحللي الأعمال. قم بأتمتة جزء من العمل الروتيني اليومي لمحلل الأعمال.
 
-## Image Generation
+## توليد الصور
 
 - [Astria](https://www.astria.ai)
-> Tailor-made AI image with text prompts and an example of product placement & visualization.
+> صورة ذكاء الاصطناعي مصممة بشكل مخصص باستعمال أوامر نصية ومثال على وضع المنتج وتصوره.
 
 - [Prompt Hunt](https://www.prompthunt.com)
 
 - [Craiyon](https://www.craiyon.com/)
-> Text description as prompts to generate AI images.
+> وصف نصي كأوامر لإنشاء صور ذكاء اصطناعي.
 
 - [Imagen](https://imagen.research.google/)
-> A text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding.
+> نموذج توليد صورة من نص بدرجة غير مسبوقة من الواقعية ومستوى عميق من فهم اللغة.
 
 - [Night Cafe](https://creator.nightcafe.studio/)
-> AI Art Generator with text prompts.
+> ذكاء الاصطناعي مولد للفن باستعمال أوامر نصية.
 
 - [GauGAN](http://gaugan.org/gaugan2/)
-> Text description as prompts to generate AI images.
+> نص وصفي كأمر توجيهي لإنشاء صور ذكاء اصطناعي.
 
 - [Deep AI](https://deepai.org/)
-> Enter a prompt, pick an art style and DeepAI tool to enhance your creativity.
+> أدخل أمرا ، واختر أسلوبا فنيا وأداة DeepAI ستعزز من إبداعك.
 
 - [Artbreeder](https://www.artbreeder.com/)
-> Make a simple collage from shapes and images, describe it with a prompt. Create images by mixing them together and editing their genes. Create portraits, landscapes, paintings, and more — then watch as others take your art in exciting new directions.
+> اصنع صورة مجمعة بسيطة من الأشكال والصور ، قم بوصفها بأمر . قم بإنشاء صور عن طريق مزجها معا وتحرير جيناتها. قم بإنشاء صور شخصية ومناظر طبيعية ولوحات والمزيد - ثم شاهد الآخرين يأخذون فنك في اتجاهات جديدة ومثيرة.
 
 - [Wonder AI](https://linktr.ee/wonder_ai)
-> Create Avatars from text prompt.
+> أنشئ صورة رمزية باستعمال موجه الأوامر.
 
 - [Neural Love](https://neural.love/)
-> Simplest AI Art Generator with a built-in prompt generator.
+> أبسط مولد فني للذكاء الاصطناعي مع مولد أوامر مدمج.
 
 - [Alpace](https://www.getalpaca.io/)
-> Create multi-layer art work in the Photoshop plugin with text prompts on Stable Diffusion.
+> قم بإنشاء عمل فني متعدد الطبقات في إضافة Photoshop  باستعمال توجيهات نصية على Stable Diffusion .
 
 - [Mage Space](https://www.mage.space/)
-> Text description as prompts to generate AI images.
+> نص وصفي كأوامر توجيهية لإنشاء صور ذكاء اصطناعي.
 
 - [Nyx Gallery](https://nyx.gallery/)
-> Generate photorealistic synthetic images at scale with text prompts.
+> قم بإنشاء صور تركيبية واقعية على نطاق واسع باستعمال نصوص توجيهية.
 
 - [PixelVibe](https://www.pixelvibe.com/)
-> AI Generated Stock Photos. Customize: People, Products, Composition, Color and Simple Description.
+> مخزن صور مولدة بالذكاء الاصطناعي . قم بتخصيص: الناس ، المنتجات، المكونات، اللون و الوصف البسيط.
 
 - [Photoroom](https://www.photoroom.com/backgrounds/)
-> AI background generation. Describe the image you want, and it will generate an infinite number of unique backgrounds using stable diffusion.
+> الذكاء الاصطناعي التوليدي للخلفيات. قم بوصف الصورة التي تريدها ، وستولد عددا لا حصر له من الخلفيات الفريدة باستخدام Stable diffusion.
 
 - [LightTricks](https://www.lightricks.com/products)
-> “Text to Image” generator within its apps, including Photoleap, which is known for its photo editing capabilities, and Motionleap, an app that can animate a still photo to make it look like it’s in motion.
+> مولد "نص إلى صورة" داخل التطبيقات ، بما في ذلك Photoleap ، المعروف بقدراته على تحرير الصور ، و Motionleap ، وهو تطبيق يمكنه تحريك صورة ثابتة لجعلها تبدو وكأنها في حالة حركة.
 
 - [Kive](https://kive.ai/)
-> Text description as prompts to generate AI photographs/paintaings.
+> نصوص وصفية كأوامر توجيهية لإنشاء صور/لوحات باستعمال الذكاء الاصطناعي.
 
 - [This wallpaper does not exist](https://thiswallpaperdoesnotexist.org/)
-> Text description as prompts to generate AI wallpapers.
+> نص وصفي كأوامر لإنشاء خلفيات ذكاء اصطناعي.
 
 - [Hyper Write](https://hyperwriteai.com/)
-> Text prompting with topic details or image description for AI images and content.
+> أوامر نصية بتفاصيل للموضوع أو وصف الصورة لصور ومحتوى ذكاء اصطناعي.
 
 - [Bertha AI](https://bertha.ai/)
-> AI-driven copywriting and image creation with output category selection and title text as prompts.
+كتابة الإعلانات وإنشاء الصور التي تعتمد على الذكاء الاصطناعي مع تحديد فئة الإخراج ونص العنوان كأوامر.
 
 - [Alethea AI](https://alethea.ai/)
-> Generate interactive AI characters from a description in natural language.
+> قم بإنشاء شخصيات ذكاء اصطناعي تفاعلية من خلال وصف بلغة طبيعية.
 
 - [Botika](https://botika.io/)
-> Generate an endless variety of hyper-realistic on-model photos with criteria settings and variables as prompts.
+> قم بإنشاء مجموعة لا حصر لها من الصور الواقعية للغاية على نموذج صور مع إعدادات المعايير والمتغيرات كأوامر توجيهية .
 
 - [Berserq](https://www.berserq.io/)
-> AI-generated photorealistic images with text inputs.
+> صور ذكاء اصطناعي واقعية تم إنشاؤها باستعمال مدخلات نصية.
 
 - [CandyIcons](https://www.candyicons.com/)
-> CandyIcons offers thousands of unique and amazing app icons that have not yet appeared elsewhere.
+> تقدم CandyIcons الآلاف من أيقونات التطبيقات الفريدة والمدهشة التي لم تظهر بعد في أي مكان آخر.
 
 - [Dreamlike](https://dreamlike.art/)
-> Image, photographs, and avatar generation with text prompts and image enhancement and editing.
+> إنشاء الصور والصور الفوتوغرافية والصورة الرمزية باستعمال توجيهات نصية وتحسين الصورة وتحريرها.
 
 - [Artifec](https://jacobgershkovich.com/artifec)
-> Generates images from quotes.
+> قم بتوليد الصور من علامات الاقتباس.
 
 ## Powerpoint Generation
+## توليد العروض التقديمية البوربوينت
 
 - [Tome](https://beta.tome.app)
-> Unlock your best work with Tome's AI-powered storytelling format.
+> أطلق العنان لأفضل أعمالك باستخدام تنسيق سرد القصص المدعوم بالذكاء الاصطناعي من Tome.
 
 
 - [Superus](https://www.superusapp.com)
-> AI-Powered Maps for Ultimate Visual Storytelling
+> خرائط مدعومة بالذكاء الاصطناعي لرواية القصص المرئية الشاملة
 
 - [Superside](https://www.superside.com/)
-> DesignOps tech for persuasive pitch decks, sales decks, or PowerPoint presentations.
+> تقنية DesignOps لمجموعات العروض التقديمية المقنعة، مجموعات المبيعات أو عروض PowerPoint التقديمية.
 
 - [Beautiful AI](https://www.beautiful.ai/)
-> A presentation maker that is an expert deck designer with built-in prompts.
+> صانع عروض تقديمية خبير في تصميم العروض باستعمال أوامر توجية مدمجة.
 
 - [MagicSlides](https://www.magicslides.app/)
-> Create Presentation Slides with AI. It lets you choose your title and number of slides.
+> قم بإنشاء شرائح عروض تقديمية باستخدام الذكاء الاصطناعي. يتيح لك اختيار العنوان وعدد الشرائح.
 
 - [Slides AI](https://www.slidesai.io/)
-> AI writes the outline and presentation content with text prompts and allows users to customize the look and feel of their slides.
+ ذكاء اصطناعي يكتب المخطط التفصيلي ومحتوى العرض التقديمي باستعمال أوامر نصية ويسمح للمستخدمين بتخصيص شكل ومظهر الشرائح الخاصة بهم.
 
 - [ChatBCG](https://www.chatba.com/)
-> Generative AI for Slides. The world’s first implementation of Text-to-PowerPoint.
+> ذكاء اصطناعي توليدي للشرائح. أول تطبيق في العالم لتحويل النص إلى PowerPoint.
 
 - [Glimmer](https://glimmerai.tech/)
-> GlimmerAI uses GPT-3 and DALL·E 2 to generate visually stunning presentations based on a user's text and voice request.
+> يستخدم GlimmerAIـ GPT-3 و DALL·E 2 لإنشاء عروض تقديمية مذهلة بصريا بناء على طلب المستخدم النصي والصوتي.
 
 ## Games
 
 - [Prompt Monkeys](https://beginnings.prompt-monkeys.ai/game/4)
-> Generates game assets/images with text prompts.
+>قم بتوليد أصول اللعبة/الصور باستعمال الأوامر النصية.
 
 - [Character AI](https://beta.character.ai/)
-> Prompt for starting a conversation with a character created by the user.
+>أوامر لبدء محادثة مع شخصية أنشأها المستخدم.
 
 - [Scenario](https://www.scenario.gg/)
-> Create high-quality, style-consistent, proprietary assets for your games.
+> قم بإنشاء أصول عالية الجودة، متسقة مع الأسلوب ومملوكة لألعابك.
 
 - [Leonardo](https://leonardo.ai/)
-> Create stunning game assets with AI.
+> إنشاء أصول ألعاب مذهلة باستعمال الذكاء الاصطناعي.
 
 - [Asset AI](https://www.assetsai.art/)
-> AI in your game design and development with built-in prompts.
+> الذكاء الاصطناعي في تصميم لعبتك وتطويرها من خلال الأوامر المضمنة.
 
 ## Programming Tools
 
 - [Code GPT - VSCode Extension](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt)
-> Artificial intelligence inside your IDE with this open source extension.
+> ذكاء اصطناعي داخل الـ IDE الخاص بك مع هذه الإضافة مفتوحة المصدر.
 
 - [Goose AI](https://goose.ai/)
-> Text completion and generation based on existing texts as prompts.
+> إكمال النص وتوليده بناء على النصوص الموجودة كأوامر.
 
 - [Cohere](https://cohere.ai/generate)
-Writes content, predicts outcomes or answers questions at your command.
+> يكتب المحتوى ،يتنبأ بالنتائج أو يجيب على الأسئلة تحت أمرك.
 
 - [Codeium](https://www.codeium.com/)
-> Codeium is a programming superpower that enables developers to quickly make changes to unfamiliar languages and codebases using natural language.
+> ـCodeium هي قوة برمجية خارقة تمكن المطورين من إجراء تغييرات بسرعة على اللغات والقواعد البرمجية غير المألوفة باستخدام اللغة الطبيعية.
 
 - [Github Copilot](https://github.com/features/copilot)
-> GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
+> ـ GitHub Copilot يستخدم مخطوطة OpenAI لاقتراح تعليمات برمجية ودوال كاملة في الوقت الفعلي ، مباشرة من داخل محرر الأكواد الخاص بك.
 
 - [Tabnine](https://www.tabnine.com/)
-> Tabnine uses generative AI technology to predict and suggests your next lines of code based on context & syntax.
+يستخدم Tabnine تقنية الذكاء الاصطناعي التوليدية للتنبؤ واقتراح الأسطر التالية من التعليمات البرمجية بناء على السياق وصياغة الأمر.
 
 - [Adept](https://www.adept.ai/)
-> Adept AI is a research and product AI lab that automates software processes for developers.
+> ـAdept هو مختبر ذكاء اصطناعي للأبحاث والمنتجات يقوم بأتمتة عمليات البرامج للمطورين.
 
 - [Buildt](https://www.buildt.ai/)
-> AI-powered coding tool that allows users to instantly find, generate, and replace anything in their code.
+أداة برمجة تعمل بالذكاء الاصطناعي تتيح للمستخدمين العثور على أي شيء في التعليمات البرمجية الخاصة بهم ، إعادة توليده واستبداله على الفور.
 
 - [Trudo](https://www.trudo.ai/)
-> Intuitive UI to train, test, and deploy OpenAI models.
+> واجهة مستخدم بديهية لتدريب نماذج OpenAI واختبارها ونشرها.
 
 - [Figstack](https://www.figstack.com/)
-> Figstack is a suite of solutions powered by AI and trained with billions of lines of code, designed to help developers quickly understand, document and optimize their code.
+> ـ Figstack عبارة عن مجموعة من الحلول المدعومة بالذكاء الاصطناعي والمدربة بمليارات الأسطر من التعليمات البرمجية ، المصممة لمساعدة المطورين على فهم التعليمات البرمجية وتوثيقها وتحسينها بسرعة.
 
 - [SourceAI](https://sourceai.dev/)
-> SourceAI is a code generator powered by GPT-3 and Codex, a next-generation development technology. It allows users to generate code in any programming language with just one click, saving them time in development.
+> ـSourceAI هو مولد كود مدعوم من GPT-3 و Codex ، وهي تقنية تطوير من الجيل التالي. تسمح للمستخدمين بإنشاء كود برمجي بأي لغة برمجة بنقرة واحدة فقط ، مما يوفر لهم الوقت في التطوير.
 
 - [Coadfiller](https://coadfiller.biz/)
-> Fix code and spelling mistakes with AI by simply adding in your code.
+> إصلاح التعليمات البرمجية والأخطاء الإملائية بالذكاء الاصطناعي ببساطة عن طريق إضافة التعليمات البرمجية الخاصة بك.
 
 - [Adrenaline](https://useadrenaline.com/)
-> A debugging assistant powered by the OpenAI Codex. It can fix and explain your broken code in seconds.
+> مساعد تصحيح الأخطاء مدعوم من OpenAI Codex. يمكنه إصلاح وشرح التعليمات البرمجية المعطلة في ثوان.
 
 - [AirOps](https://www.airops.com/)
-> Write SQL, documentation and more 10x faster with our collection of powerful recipes.
+> اكتب SQL ، التوثيقات والمزيد أسرع 10 مرات مع مجموعتنا من الوصفات القوية.
 
 - [SQL Genius](https://sqlgenius.app/)
-> SQL generator with text descriptions.
+> مولد SQL باستعمال أوامر وصفية.
 
 - [What The Diff](https://whatthediff.ai/)
-> AI-powered code review assistant.
+> مساعد ذكاء اصطناعي لمراجعة التعليمات البرمجية,
 
 - [SpellBox](https://spellbox.app/)
-> SpellBox uses artificial intelligence to create the code you need from simple prompts.
+> يستخدم SpellBox الذكاء الاصطناعي لإنشاء التعليمات البرمجية التي تحتاجها باستعمال أوامر بسيطة.
 
 - [DataMaker](https://www.datamaker.dev/)
-> Help you solve code, copywriting and 100's of other problems that all of us Webflow designers face.
+> يساعدك في حل التعليمات البرمجية ،كتابة الإعلانات و المئات من المشكلات الأخرى التي نواجهها جميعا نحن مصممي الـ Webflow.
 
 - [CodeWP](https://codewp.ai/)
-> AI Code Generator For WordPress Creators with simple text prompts.
+> ذكاء اصطناعي توليدي لمنشئي WordPress باستعمال أوامر نصية بسيطة.
 
 - [AI Query](https://aiquery.co/)
-> Generate Error Free SQL with simple English prompts and let AI do the heavy lifting for you.
+>قم بإنشاء SQL خالية من الأخطاء باستعمال أوامر بسيطة باللغة الإنجليزية واترك الذكاء الاصطناعي يقوم بالحمل الثقيل نيابة عنك.
 
 - [Refraction](https://www.refraction.dev/)
-> Generate unit tests, refactor code and create documentation for C#, C++, Go, Java, JavaScript, TypeScript, PHP, Python, R Lang, Ruby, and Swift. Simply paste a block of code, choose your language, then hit "Generate" to witness magic.
+> قم بإنشاء اختبارات الوحدة ،إعادة بناء التعليمات البرمجية وإنشاء توثيق لـ C # و C ++ و Go و Java و JavaScript و TypeScript و PHP و Python و R Lang و Ruby و Swift. ما عليك سوى لصق كتلة من التعليمات البرمجية ، واختيار لغتك ، ثم الضغط على "إنشاء" لمشاهدة السحر.
 
 - [CodeSquire](https://codesquire.ai/)
-> AI code writing assistant for data scientists, engineers, and analysts. Get code completions and suggestions as you type.
+> مساعد ذكاء الاصطناعي لكتابة التعليمات البرمجية لعلماء البيانات والمهندسين والمحللين. احصل على إكمالات أكوادك واقتراحات أثناء الكتابة.
 
 - [regex.ai](https://regex.ai/)
-- AI-Powered Regular Expression Solver
+> حلّال التعبيرات النمطية Regex باستعمال الذكاء الاصطناعي.
 
 ## Sales and Marketing
+## المبيعات والتسويق
 
 - [GhostWriter](https://www.tailwindapp.com/?optimize-exp=index_ghostwriter_control)
-> Tool that writes for you, designs for you, and even gives you a plan for growth.
+> الأداة التي تكتب لك ، وتصمم لك ، وتمنحك حتى خطة للنمو.
 
 - [Daydrm AI](https://www.daydrm.ai/)
-> AI tool for creative advertising ideas in multiple formats and different platforms.
+> أداة ذكاء اصطناعي لأفكار إعلانية إبداعية بتنسيقات متعددة ومنصات مختلفة.
 
 - [NeuralText Smart Writer](https://www.neuraltext.com/)
-> Content marketing platform for content operations, marketing copy generation with textual inputs.
+> منصة تسويق لعمليات المحتوى ، وتوليد نص تسويقي باستعمال أوامر نصية.
 
 - [Ernest](https://imernest.ai/)
-> For sales people to automatically find opportunities based on past clients and industry.
+> لموظفي المبيعات من أجل العثور تلقائيا على الفرص بناء على العملاء السابقين.
 
 - [Humantic AI Sales Assistant](https://humantic.ai/solutions/revenue)
-> Buyer Intelligence for revenue teams to truly know their customers at every stage of the funnel.
+> {Buyer Intelligence for revenue teams to truly know their customers at every stage of the funnel.}
+
 
 - [Lavender](https://chrome.google.com/webstore/detail/lavender/necbalcggglceeioaehdbkpbldmoabii)
-> Effective e-mails using social data and linguistic AI.
+> رسائل بريد إلكتروني فعالة باستخدام البيانات الاجتماعية و الذكاء الاصطناعي اللغوي.
 
 - [Pulley](https://www.pulley.ai/)
-> Recommendation emails that convert.
+> توصيات رسائل بريد إلكتروني.
 
 - [Nanos instant marketing](https://nanos.ai/)
-> Marketing automation white-label solution for creation and management of advertising campaigns.
+> {Marketing automation white-label solution for creation and management of advertising campaigns.}
 
 - [RegisAI](https://regisai.com/)
-> This AI writing tool creates product descriptions and ad copies with just a few keywords and the name of your product.
+> تنشئ أداة كتابة الذكاء الاصطناعي هذه أوصافا للمنتج ومحتوى للإعلان باستخدام عدد قليل من الكلمات المفتاحية واسم منتجك.
 
 - [Flair](https://withflair.ai/)
-> The AI Design Tool for Branded Content and product photography with text prompts.
+> أداة تصميم ذكاء اصطناعي للمحتوى ذو العلامات التجارية وتصوير المنتجات باستعمال أوامر نصية.
 
 - [Mentioned](https://mentioned.ai/)
-> Scan your content to identify people and companies you've mentioned, then, send email campaigns to let them know.
+> افحص المحتوى الخاص بك لتحديد الأشخاص والشركات التي ذكرتها ، ثم أرسل حملات بريد إلكتروني لإعلامهم.
 
 - [Barua AI](https://baruaai.com/)
-> Generate outbound email with text prompts.
+> إنشاء بريد إلكتروني صادر باستعمال الأوامر النصية.
 
 - [Superflow](https://www.superflows.ai/)
-> Respond to your gmail inbox faster with AI generated 1-click replies, customised to your workflows.
+> قم بالرد على البريد الوارد في Gmail بشكل أسرع من خلال ردود ذكاء اصطناعي تم إنشاؤها بنقرة واحدة ، مخصصة لسير العمل الخاص بك.
 
 - [Robin](https://www.hellorobin.ai/)
-> Reach out to leads, conduct research, and handle initial outreach. Writes and sends emails from your email address.
+> قم بالوصول إلى العملاء المحتملين ، إجراء البحوث والتعامل مع {الفئة المستهدفة الأولى}. كتابة وإرسال رسائل بريد إلكتروني من عنوان بريدك الإلكتروني.
 
 ## Music
 
 - [Splash](https://www.splashmusic.com/)
-> AI that opens up new ways for music to be made and enjoyed. Our AI allows anyone to compose original music and sing lyrics to any melody.
+> ذكاء اصطناعي يفتح طرقا جديدة لصناعة الموسيقى والاستمتاع بها. يسمح الذكاء الاصطناعي الخاص بنا لأي شخص بتأليف موسيقى أصلية وغناء كلمات لأي لحن.
 
 ## Video
 
 - [Phenaki](https://phenaki.video/)
-> A model for generating videos from text, with prompts that can change over time, and videos that can be as long as multiple minutes.
+> نموذج لإنشاء مقاطع فيديو من خلال نص ، مع أوامر موجهة يمكن أن تتغير بمرور الوقت ، ومقاطع فيديو يمكن أن تصل مدتها إلى عدة دقائق.
 
 - [Runway](https://runwayml.com/)
-> Real-time video editing, collaboration with text and built-in prompts.
+> تحرير الفيديو في الوقت الفعلي والتعاون باستعمال نص و أوامر توجيه مضمنة.
 
 - [Make a Video](https://makeavideo.studio/)
-> Generates videos from text. The system uses images with descriptions to learn what the world looks like and how it is often described.
+> قم بتوليد مقاطع فيديو من خلال نص. يستخدم النظام الصور مع الأوصاف لمعرفة كيف يبدو العالم وكيف يتم وصفه في كثير من الأحيان.
 
 - [Kaiber](https://kaiber.ai/)
-> Kaiber is a video generation engine that enables users to create videos from their own images or text description.
+> ـ Kaiber هو محرك لتوليد الفيديو يمكن المستخدمين من إنشاء مقاطع فيديو من صورهم الخاصة أو وصف النص.
 
-## Web Design
+
+## تصميم المواقع
 
 - [Studio Design](https://studio.design/)
-> Make a selection and design suggestions populate based on surrounding styles. Talk to a voice assistant and have it perform complex styling tasks for website design.
+>قم بتحديد و تصميم اقتراحات بناء على الأنماط المحيطة. تحدث إلى مساعد صوتي واطلب منه أداء مهام تصميم معقدة لتصميم موقع الويب.
 
 ## Product Photography
 
 - [88stacks](https://88stacks.com/)
-> Just type out a few words and instantly visualize anything. Use 88stacks for ideation, ad generation, concepts, product placement, style visualization, brand visualization, and more.
+>اكتب بضع كلمات فقط وقم بإنشاء تصور لأي شيء على الفور. استخدم 88stacks للتفكير ، إنشاء الإعلانات ،المفاهيم ،موضع المنتج ،تصور الستايل ،تصور العلامة التجارية  والمزيد.
 
 - [Astria](https://www.strmr.com/)
-> Tailor-made AI image with text prompts and an example of product placement & visualization.
+> صورة الذكاء الاصطناعي مصممة بشكل مخصص باستعمال توجيهات نصية ومثال على وضع المنتج وتصوره.
 
 - [Booth](https://www.booth.ai/)
-> Create pro quality product photography with AI using text prompts and sample photos.
+> قم بإنشاء تصوير احترافي للمنتجات بجودة عاليةمع الذكاء الاصطناعي باستخدام توجيهات نصية وعينات من الصور.
 
 ## Workflow Automation
 
 - [OpenAI - GPT-3 Zapier App](https://zapier.com/apps/openai/integrations)
-> Zapier lets you connect OpenAI (ChatGPT) with thousands of the most popular apps, so you can automate your work.
+> يتيح لك Zapier ربط OpenAI (ChatGPT) بالآلاف من التطبيقات الأكثر شعبية ، حتى تتمكن من أتمتة عملك.
 
 - [Forethought](https://forethought.ai/)
-> Generative AI Platform for Customer Support Automation.
+> منصة ذكاء اصطناعي توليدية لأتمتة دعم العملاء.
 
 - [Job Description AI](https://www.jobdescription.ai/)
-> Job description generator for HR tech vendors.
+> مولد الوصف الوظيفي لبائعي تكنولوجيا الموارد البشرية.
 
-## Buy and Sell Prompts
+
+## بيع و شراء الأوامر التوجيهية
 
 - [PromptBase](https://promptbase.com)
-> DALL·E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace.
+> سوق الأوامر التوجيهية لـ DALL·E, GPT-3, Midjourney, Stable Diffusion.
 
 - [Krea](https://www.krea.ai/)
-> Krea lets us explore millions of AI generated images—as well as the prompts that produced them.
+> يتيح لنا Krea استكشاف ملايين الصور التي تم إنشاؤها باستعمال الذكاء الاصطناعي - بالإضافة إلى الأوامر التوجيهية التي أنتجتها.
 
 - [promptoMANIA](https://promptomania.com/)
-> An online prompt builder that helps users become a CF Spark, Midjourney or Stable Diffusion master.
+> منشئ أوامر موجهة عبر الإنترنت يساعد المستخدمين على أن يصبحوا CF Spark أو محترفي Midjourney و Stable Diffusion.
 
 - [OrdinaryPeoplePrompts.com](https://www.ordinarypeopleprompts.com/)
-> OrdinaryPeoplePrompts.com is an interactive website that provides users with a platform to explore and create AI-generated prompts.
+>ـ OrdinaryPeoplePrompts.com هو موقع ويب تفاعلي يوفر للمستخدمين نظاما أساسيا لاستكشاف وإنشاء أوامر توجيهية تم إنشاؤها الذكاء الاصطناعي.
 
 - [Midjourney Prompt Generator](https://www.viorelspinu.com/p/midjourney-prompt-generator.html)
-> The Midjourney Prompt Generator is a web application that generates prompts based on a text input and various options.
+>ـ The Midjourney Prompt Generator هو تطبيق ويب يقوم بإنشاء أوامر توجيهية بناء على إدخال النص مع خيارات متنوعة.
 
 - [PromptLayer](https://promptlayer.com/)
-> Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
+> Maintain a log of your prompts and OpenAI API requests. Track, debug, and {replay old completions}.
+> احتفظ بسجل لأوامر وطلبات واجهة برمجة تطبيقات OpenAI. تتبع ،  نقّح و أعد تشغيل {} . 
 
 - [Promptextend](https://www.promptextend.com/)
-> AI elaborate prompt generator from a small seed prompt.
+> ذكاء اصطناعي مولَّد من موجه بذور صغير.
 
 - [Thomas IO](https://www.thomas.io/stable-diffusion-prompt-generator)
-> Stable Diffusion Prompt Generator. Type a few words and press enter to get a detailed prompt.
+> مولد أوامر Stable Diffusion . اكتب بضع كلمات واضغط على Enter للحصول على أوامر توجيهية مفصلة.

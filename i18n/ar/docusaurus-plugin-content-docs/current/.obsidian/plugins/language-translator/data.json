@@ -4,10 +4,10 @@
     "code": "ar"
   },
   "apiType": {
-    "text": "LibreTranslate",
-    "value": "2"
+    "text": "Builtin",
+    "value": "0"
   },
-  "translateApiUrl": "https://libretranslate.com/translate",
+  "translateApiUrl": "https://api.cognitive.microsofttranslator.com/translate?api-version=3.0",
   "maxCharacters": 2000,
   "token": "",
   "region": {

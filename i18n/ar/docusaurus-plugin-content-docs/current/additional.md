@@ -2,9 +2,9 @@
 sidebar_position: 3000
 ---
 
-# 🛸 Additional Resources
+# 🛸 مصادر إضافية
 
-## Resources
+## مصادر
 
 * [Article on leaking Notion's prompts](https://lspace.swyx.io/p/reverse-prompt-eng)
 * [A great article on applications](https://huyenchip.com/2023/04/11/llm-engineering.html)<br/>
@@ -27,7 +27,8 @@ sidebar_position: 3000
 * [Advanced Prompt Engineering](https://jamesbachini.com/advanced-midjourney-prompt-engineering/#midjourney-flags)
 * [Ordinary people prompts](https://www.ordinarypeopleprompts.com/)
 
-### GPT-3 Prompt Examples/Ideas
+
+### GPT-3 أفكار / أمثلة لأوامر
 
 https://sharegpt.com <br/>
 https://www.learngpt.com <br/>
@@ -35,13 +36,13 @@ https://chatgpt.getlaunchlist.com <br/>
 https://prompts.chat
 
 
-## Facts
+## حقائق
 
-GPT-3 is *NOT* deterministic: https://twitter.com/BorisMPower/status/1608522707372740609
+GPT-3 is *NOT* {deterministic}: https://twitter.com/BorisMPower/status/1608522707372740609
 
-## People to follow
+## أشخاص للمتابعة
 
-I source significant content from these people.
+مصدر الكثير من المحتوى الذي أتابعه من هؤلاء الناس.
 
 [@chillzaza_](https://mobile.twitter.com/chillzaza_) Prompt engineering, tools, toolbot<br/>
 [@mathemagic1an](https://mobile.twitter.com/mathemagic1an) Various prompting, PE, GPT3 info<br/>
@@ -49,8 +50,8 @@ I source significant content from these people.
 [@hwchase17](https://twitter.com/hwchase17) Core dev of langchain<br/>
 [@omarsar0](https://twitter.com/omarsar0) DAIR AI lead
 
-Also check accounts that I follow: https://twitter.com/learnprompting/following 
+ تفقد الحسابات التي أتابعها أيضا : https://twitter.com/learnprompting/following 
 
-## Even More
+## للمزيد
 
-Check [open issues](https://github.com/trigaten/Learn_Prompting/issues) and [PRs](https://github.com/trigaten/Learn_Prompting/pulls) :)
+تفقد [open issues](https://github.com/trigaten/Learn_Prompting/issues) و [PRs](https://github.com/trigaten/Learn_Prompting/pulls) :)

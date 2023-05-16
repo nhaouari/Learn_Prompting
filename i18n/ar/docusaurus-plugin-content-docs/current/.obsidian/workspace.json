@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e61fb2af84dcac5",
+        "id": "97773aca442e24e2",
         "type": "tabs",
-        "dimension": 80.43052837573386,
         "children": [
           {
-            "id": "43b791c984a56649",
+            "id": "8f00b2d1b302a7c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3d28065bbea5eeba",
-        "type": "tabs",
-        "dimension": 19.569471624266143,
-        "children": [
-          {
-            "id": "d5c16eba94a9dcda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro2.md",
+                "file": "additional.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5
   },
   "right": {
     "id": "3308dfbe2e42c6da",
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intro.md",
+                "file": "additional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intro.md",
+                "file": "additional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intro.md"
+                "file": "additional.md"
               }
             }
           }
@@ -164,24 +144,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "translate:Open translation view": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43b791c984a56649",
+  "active": "8f00b2d1b302a7c4",
   "lastOpenFiles": [
-    "intro2.md",
-    "intro.md",
-    "().md",
-    "advanced_applications/mrkl.md",
-    "advanced_applications/overview.md",
-    "advanced_applications/pal.md",
-    "advanced_applications/react.md",
-    "products.md",
-    "hot_topics.md",
-    "fonts/Molhim8chiffreAR.woff",
-    "fonts",
+    "bibliography.md",
     "credits.md",
-    "additional.md"
+    "hot_topics.md",
+    "intro.md",
+    "products.md",
+    "vocabulary.md",
+    "additional.md",
+    "intro2.md",
+    "basics/pitfalls.md",
+    "Images/weighted_terms.md",
+    "Images/style_modifiers.md",
+    "Images/resources.md",
+    "Images/repetition.md",
+    "Images/quality_boosters.md",
+    "Images/midjourney.md",
+    "Images/intro.md",
+    "Images/fix_deformed_generations.md",
+    "basics/intro.md",
+    "basics/instructions.md",
+    "basics/formalizing.md",
+    "basics/few_shot.md",
+    "basics/configuration_hyperparameters.md",
+    "basics/combining_techniques.md",
+    "applied_prompting/short_response.md",
+    "applied_prompting/overview.md",
+    "applied_prompting/mc_tutorial.md",
+    "fonts/Molhim8chiffreAR.woff",
+    "fonts"
   ]
 }

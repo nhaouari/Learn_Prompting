@@ -2,25 +2,28 @@
 sidebar_position: 200000
 ---
 
-# 🔥 Hot Topics
+# 🔥 مواضيع مثيرة 
 
 ## GPT-4
 
-GPT-4(@openai2023gpt4) is the next LLM in OpenAI's GPT series. It improves upon GPT-3 in a number of ways, including better reasoning and longer context length. Currently, we do not directly cover it in this course since 1) not everyone has access to it yet and 2) most of the prompting strategies we cover in this website work for GPT-4 as well. We encourage you to read the [OpenAI page](https://openai.com/research/gpt-4) on GPT-4 for more details.
+  ـ (@openai2023gpt4) GPT-4 هو النموذج اللغوي الضخم (LLM) الذي يلي GPT3 في سلسلة GPT من OpenAI. هو أكثر تطورا من GPT-3 في عدة نواحي ، بما في ذلك التفكير بشكل الأفضل ومحتوى سياق أطول. حاليا ، لا نغطيه مباشرة في هذه الدورة التدريبية نظرا لأن 1) لا يستطيع الجميع الوصول إليه حتى الآن و 2) تعمل معظم استراتيجيات اصدار الأوامر التي نغطيها في هذا الموقع مع GPT-4 أيضا. نحن نشجعك على قراءة [صفحة OpenAI](https://openai.com/research/gpt-4) بخصوص GPT-4 لمزيد من التفاصيل.
 
-## Agents
+## Agents الوكلاء
 
-Agents are AI systems that can take actions and perform tasks, which often include the use of tools.
+الوكلاء هي أنظمة ذكاء اصطناعي يمكنها اتخاذ إجراءات وتنفيذ مهام ، والتي غالبا ما تتضمن استخدام مجموعة أدوات .
 
 ### Auto-GPT
-Imagine having a personal assistant that can do anything you want with the power of AI. Auto-GPT is that, an open-source application that uses OpenAI’s GPT-4 to perform autonomous tasks. Created by Toran Bruce Richards, it works by breaking down a given goal into sub-tasks and then using the internet and other tools to complete those sub-tasks(@richards2023). For example, if you ask Auto-GPT to ''write a blog post about the latest news in artificial intelligence,” it will first find the latest news articles about artificial intelligence, read them, and then write a blog post about what it learned. To use Auto-GPT, you need to follow the setup instructions [here](https://significant-gravitas.github.io/Auto-GPT/setup/). Once you have installed Auto-GPT, you can start using it by typing a goal into the prompt bar. Auto-GPT will then try to achieve that goal.
+
+تخيل وجود مساعد شخصي يمكنه فعل أي شيء تريده بقوة الذكاء الاصطناعي. Auto-GPT هو تطبيق مفتوح المصدر يستخدم GPT-4 من OpenAI لأداء مهام مستقلة. تم إنشاؤه بواسطة Toran Bruce Richards ، وهو يعمل عن طريق تقسيم هدف معين إلى مهام فرعية ثم استخدام الإنترنت وأدوات أخرى لإكمال تلك المهام الفرعية (@richards2023). على سبيل المثال ، إذا طلبت من Auto-GPT "كتابة تدوينة حول آخر الأخبار في الذكاء الاصطناعي" ، فسيجد أولا أحدث المقالات الإخبارية حول الذكاء الاصطناعي ، يقرأها ، ثم يكتب تدوينة حول ما تعلمه. لاستخدام Auto-GPT ، تحتاج إلى اتباع تعليمات الإعداد [هنا](https://significant-gravitas.github.io/Auto-GPT / setup /). بمجرد تثبيت Auto-GPT ، يمكنك البدء في استخدامه عن طريق كتابة هدف في شريط الأوامر . سيحاول Auto-GPT بعد ذلك تحقيق هذا الهدف.
 
 ### Baby AGI
-BabyAGI is an AI-powered task management system created by Yohei Nakajima(@nakajima2023). The system uses OpenAI and Pinecone APIs to create and execute tasks based on the priority and difficulty of previous tasks and a predefined objective. BabyAGI works by running a loop that does the following steps:
-1. Pulls the first task from the task list.
-2. Sends the task to the execution agent, which uses OpenAI's API to complete the task based on the context.
-3. Enriches the result and stores it in Chroma.
-4. Creates new tasks and reprioritizes the task list based on the objective and the result of the previous task.
+
+ـ BabyAGI هو نظام إدارة مهام مدعوم بالذكاء الاصطناعي تم إنشاؤه بواسطة Yohei Nakajima (@nakajima2023). يستخدم النظام واجهات برمجة التطبيقات (API) الخاصة بـ OpenAI و Pinecone لإنشاء المهام وتنفيذها بناء على أولوية وصعوبة المهام السابقة وهدفٍ محددٍ مسبقا. يعمل BabyAGI عن طريق تشغيل حلقة تقوم بالخطوات التالية:
+1. سحب المهمة الأولى من قائمة المهام.
+2. ارسال المهمة إلى وكيل التنفيذ ، والذي يستخدم واجهة برمجة تطبيقات OpenAI لإكمال المهمة بناء على السياق.
+3. يثري النتيجة ويخزنها في Chroma.
+4. ينشئ مهام جديدة ويعيد ترتيب أولويات قائمة المهام بناءا على هدف المهمة السابقة ونتيجتها.
 
 ### AgentGPT
-Reworkd’s [AgentGPT](https://agentgpt.reworkd.ai/) is a platform that unleashes users to craft and deploy self-reliant AI agents, ranging from customer service to data analysis(@reworkd2023). It educates an AI agent on a distinct task and then endows it to accomplish a preordained goal. Agents can exploit diverse APIs to access and process real-world information, and they can also converse with humans and other agents. To use AgentGPT, users need to register and select a goal for their agent. Then, they can instruct their agent by supplying it data and instructions.
+
+ـReworkd's [AgentGPT](https://agentgpt.reworkd.ai/) عبارة عن منصة تسمح للمستخدمين بإطلاق العنان لصياغة ونشر وكلاء ذكاء اصطناعي معتمدين على أنفسهم ، بدءا من خدمة العملاء إلى تحليل البيانات (@reworkd2023). يقوم AgentGPT بتعليم وكيل ذكاء اصطناعي بخصوص مهمة متميزة ثم يطلقه لتحقيق هدف تم تحدبده مسبقا. يمكن للوكلاء استغلال واجهات برمجة تطبيقات (API) متنوعة للوصول إلى معلومات من العالم الحقيقي ومعالجتها ، ويمكنهم كذالك التحدث مع البشر والوكلاء الآخرين. لاستخدام AgentGPT ، يحتاج المستخدمون إلى التسجيل وتحديد هدف لوكيلهم. بعد ذلك ، يمكنهم توجيه وكيلهم من خلال تزويده بالبيانات والتعليمات اللازمة .

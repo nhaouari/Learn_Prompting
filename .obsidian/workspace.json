@@ -1,19 +1,41 @@
 {
   "main": {
-    "id": "3531c43286a88601",
+    "id": "1186f0ba4a91e2b4",
     "type": "split",
     "children": [
       {
-        "id": "97773aca442e24e2",
+        "id": "ee0bf08173dbe653",
         "type": "tabs",
+        "dimension": 45.00891265597148,
         "children": [
           {
-            "id": "8f00b2d1b302a7c4",
+            "id": "47ca0b2bc04d6190",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "c791a5da37944dc2",
+        "type": "tabs",
+        "dimension": 54.99108734402852,
+        "children": [
+          {
+            "id": "310da35e7d00cb72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "additional.md",
+                "file": "i18n/ar/docusaurus-plugin-content-docs/current/intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +47,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b9c8f136c2c40a45",
+    "id": "45c90aa903cd1d59",
     "type": "split",
     "children": [
       {
-        "id": "907047da41fec383",
+        "id": "7b58bb452c003e57",
         "type": "tabs",
         "children": [
           {
-            "id": "d5e873834313e812",
+            "id": "759d4bb32ef06216",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +65,7 @@
             }
           },
           {
-            "id": "a30b300887d05f56",
+            "id": "0ca38c1c3ab01e57",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +80,7 @@
             }
           },
           {
-            "id": "e8db3e6e9da3ea40",
+            "id": "2bea1bd373f9c638",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +91,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 200
   },
   "right": {
-    "id": "3308dfbe2e42c6da",
+    "id": "701d105322c57174",
     "type": "split",
     "children": [
       {
-        "id": "82487069f8cabf4f",
+        "id": "7b50c7537b5f5d1b",
         "type": "tabs",
         "children": [
           {
-            "id": "c036ca0b680b5cd4",
+            "id": "763639e3bcc43ae2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "additional.md",
+                "file": "docs/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +119,19 @@
             }
           },
           {
-            "id": "196345ed06885335",
+            "id": "6548866eb28c598f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "additional.md",
+                "file": "docs/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5233caed0b9c69b2",
+            "id": "cc23a084901cc56e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +142,12 @@
             }
           },
           {
-            "id": "34be56732eb6cb9d",
+            "id": "ddb8ddead732d417",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "additional.md"
+                "file": "docs/intro.md"
               }
             }
           }
@@ -143,39 +165,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8f00b2d1b302a7c4",
+  "active": "47ca0b2bc04d6190",
   "lastOpenFiles": [
-    "bibliography.md",
-    "credits.md",
-    "hot_topics.md",
-    "intro.md",
-    "products.md",
-    "vocabulary.md",
-    "additional.md",
-    "intro2.md",
-    "basics/pitfalls.md",
-    "Images/weighted_terms.md",
-    "Images/style_modifiers.md",
-    "Images/resources.md",
-    "Images/repetition.md",
-    "Images/quality_boosters.md",
-    "Images/midjourney.md",
-    "Images/intro.md",
-    "Images/fix_deformed_generations.md",
-    "basics/intro.md",
-    "basics/instructions.md",
-    "basics/formalizing.md",
-    "basics/few_shot.md",
-    "basics/configuration_hyperparameters.md",
-    "basics/combining_techniques.md",
-    "applied_prompting/short_response.md",
-    "applied_prompting/overview.md",
-    "applied_prompting/mc_tutorial.md",
-    "fonts/Molhim8chiffreAR.woff",
-    "fonts"
+    "i18n/ar/docusaurus-plugin-content-docs/current/intro.md",
+    "docs/intro.md",
+    "node_modules/webpack/lib/ModuleTypeConstants.js",
+    "node_modules/webpack/lib/CssModule.js",
+    "node_modules/fsevents",
+    "docs/basics/intro.md"
   ]
 }

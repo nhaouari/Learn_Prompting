@@ -2,66 +2,63 @@
 sidebar_position: 90
 ---
 
-# 📙 Vocabulary Reference
+# 📙 مَرْجِعُ المفردات
 
-Please refer to this page for a list of terms and concepts that we will use throughout this course.
 
-#### Large Language Models (LLMs), Pretrained Language Models (PLMs)(@branch2022evaluating), Language Models (LMs), and foundation models
+يرجى الرجوع إلى هذه الصفحة للحصول على قائمة بالمصطلحات والمفاهيم التي سنستخدمها طوال هذه الدورة.
 
-These terms all refer more or less to the same thing: large AIs (neural networks), which have usually been trained
-on a huge amount of text.
 
-#### Masked Language Models (MLMs)
+#### نماذج اللغات الضخمة (LLMs) ونماذج اللغات المدربة مسبقا (PLMs) (@branch2022evaluating) ونماذج اللغات (LMs) والنماذج الأساسية
 
-MLMs are a type of NLP model, which have a special token, usually `[MASK]`, which is
-replaced with a word from the vocabulary. The model then predicts the word that
-was masked. For example, if the sentence is "The dog is [MASK] the cat", the model
-will predict "chasing" with high probability.
 
-#### Labels
+تشير جميع هذه المصطلحات إلى نفس الشيء تقريبا : الذكاء الاصطناعي الضخم (الشبكات العصبية) ، والتي عادة ما يتم تدريبها على كمية ضخمة من النصوص.
 
-The concept of labels is best understood with an example.
 
-Say we want to classify some Tweets as mean or not mean. If we have a list of Tweets and
-their corresponding _label_ (mean or not mean), we can train a model to classify
-whether tweets are mean or not. Labels are generally just possibilities for the
-classification task.
+#### نماذج اللغة المحجوبة (MLMs)
 
-#### Label Space
+ـ MLMs هي نوع من نماذج البرمجة اللغوية العصبية ، والتي لها رمز مميز خاص ، عادة "[MASK]" أو [محجوب] ، وهو استبدال بكلمة من المفردات. ثم يتنبأ النموذج بالكلمة التي كانت محجوبة . على سبيل المثال ، إذا كانت الجملة هي "الكلب [محجوب] القطة" ، فإن النموذج سوف يتنبأ بكلمة "يطارد" مع احتمال كبير.
 
-All of the possible labels for a given task ('mean' and 'not mean' for the above example).
+#### Labels التصنيفات
 
-#### Sentiment Analysis
+من الأفضل استيعاب مفهوم {labels} أو تصنيف بمثال.
 
-Sentiment analysis is the task of classifying text into positive, negative, or other sentiments.
+لنفترض أننا نريد تصنيف بعض التغريدات على أنها لئيمة أو غير لئيمة . إذا كانت لدينا قائمة بالتغريدات و التصنيفات المقابلة لها (لئيمة أو غير لئيمة ) ، يمكننا تدريب نموذج لتصنيف التغريدات عما إذا كانت لئيمة أم لا. التصنيفات {labels} بشكل عام هي مجرد احتمالات لمهمة التصنيف.
 
-#### "Model" vs. "AI" vs. "LLM"
+#### مساحة التصنيف
 
-These terms are used somewhat interchangeably throughout this course, but they do
-not always mean the same thing. LLMs are a type of AI, as noted above, but not all AIs are LLMs.
-When we mentioned models in this course, we are referring to AI models. As such, in this course,
-you can consider the terms "model" and "AI" to be interchangeable.
+جميع التصنيفات الممكنة لمهمة معينة ("لئيمة" و "غير لئيمة" للمثال أعلاه).
 
-#### Machine Learning (ML)
+#### تحليل المشاعر
 
-ML is a field of study that focuses on algorithms that
-can learn from data. ML is a subfield of AI.
+تحليل المشاعر هي مهمة تصنيف النص إلى مشاعر إيجابية أو سلبية أو مشاعر أخرى.
 
-#### Verbalizer
 
-In the classification setting, verbalizers are mappings from labels to words in
-a language model's vocabulary(@schick2020exploiting). For example, consider
-performing sentiment classification with the following prompt:
+#### "النموذج" مقابل "الذكاء الاصطناعي" مقابل "LLM"
+
+
+يتم استخدام هذه المصطلحات بالتبادل إلى حد ما خلال هذه الدورة ، لكنها لا تعني دائما نفس الشيء. LLMs هو نوع من الذكاء الاصطناعي ، كما هو مذكور أعلاه ، ولكن ليس كل الذكاء الاصطناعي عبارة عن LLMs.
+عندما نذكر النماذج في هذه الدورة ، فإننا نشير إلى نماذج الذكاء الاصطناعي. على هذا النحو في الدورة .
+يمكنك اعتبار المصطلحين "نموذج Model" و "الذكاء الاصطناعي AI" قابلين للتبادل.
+
+#### تعلم الآلة (ML)
+
+ـ ML هو مجال دراسي يركز على الخوارزميات التي يمكن أن تتعلم من البيانات. ML هو حقل فرعي من الذكاء الاصطناعي.
+
+#### اللفظي {Verbalizer}
+
+
+في إعدادات التصنيف ، اللفظيات هي تعينات من "التصنيفات إلى الكلمات" في مفردات نموذج اللغة (@schick2020exploiting). على سبيل المثال ، قم بإجراء تصنيف للمشاعر في الأمر التالي :
 
 ```text
 Tweet: "I love hotpockets"
 What is the sentiment of this tweet? Say 'pos' or 'neg'.
 ```
 
-Here, the verbalizer is the mapping from the conceptual labels of `positive` and `negative` to the tokens `pos` and `neg`.
 
-#### Reinforcement Learning from Human Feedback (RLHF)
+هنا ، "اللفظي" هو التعيين من التسميات المفاهيمية "إيجابية" و "سلبية" إلى الرموز المميزة "pos" و "neg".
 
-RLHF is a method for fine tuning LLMs according to human preference data.
+#### التعلم المعزز من الاستجابة الرجعية البشرية (RLHF)
+
+ـ RLHF هي طريقة لضبط وصقل LLMs وفقا لبيانات التفضيل البشري.
 
 <!-- %%RemarkAutoGlossary::list_all%% -->

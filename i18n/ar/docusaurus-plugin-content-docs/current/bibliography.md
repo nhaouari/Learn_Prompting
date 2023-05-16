@@ -2,19 +2,22 @@
 sidebar_position: 1000
 ---
 
-# 📚 Bibliography
+# 📚 ببليوغرافيا
 
-The page contains an organized list of all papers used by this course.
-The papers are organized by topic.
 
-**To cite this course, use the provided citation in the Github repository.**
+تحتوي الصفحة على قائمة منظمة بجميع الأوراق المستخدمة في هذه الدورة.
+يتم تنظيم الأوراق حسب الموضوع.
 
-🔵 = Paper directly cited in this course. Other papers have informed my understanding of the topic.
+
+**للاستشهاد بهذه الدورة التدريبية ، استخدم الاقتباس المقدم في مستودع Github.
+
+
+🔵 تعني أن الورقة تم الاستشهاد بها مباشرة في هذه الدورة. غير ذلك تعني أنها أثرت على فهمي للموضوع.
 
 Note: since [neither the GPT-3 nor the GPT-3 Instruct paper correspond to davinci models](https://twitter.com/janleike/status/1584618242756132864), I attempt not to
 cite them as such.
 
-## Prompt Engineering Strategies
+## استراتيجيات هندسة الأوامر
 
 #### Chain of Thought(@wei2022chain) 🔵
 
@@ -44,7 +47,7 @@ cite them as such.
 
 #### The Turking Test: Can Language Models Understand Instructions?(@efrat2020turking) 🔵
 
-## Reliability
+## موثوقية
 
 #### MathPrompter(@imani2023mathprompter) 🔵
 
@@ -64,15 +67,15 @@ cite them as such.
 
 #### Compositional Generalization - SCAN(@lake2018scan)
 
-## Automated Prompt Engineering
+## هندسة الأوامر الآلية
 
 #### AutoPrompt(@shin2020autoprompt) 🔵
 
 #### Automatic Prompt Engineer(@zhou2022large)
 
-## Models
+## نماذج
 
-### Language Models
+### نماذج لغوية
 
 #### GPT-3(@brown2020language) 🔵
 
@@ -92,19 +95,19 @@ cite them as such.
 
 #### Roberta(@liu2019roberta)
 
-### Image Models
+### نماذج الصور
 
 #### Stable Diffusion(@rombach2021highresolution) 🔵
 
 #### DALLE(@ramesh2022hierarchical) 🔵
 
-## Soft Prompting
+## Soft Prompting لم أجد ترجمة لها 
 
 #### Soft Prompting(@lester2021power) 🔵
 
 #### Interpretable Discretized Soft Prompts(@khashabi2021prompt) 🔵
 
-## Datasets
+## مجموعات البيانات Datasetes
 
 #### MultiArith(@roy-roth-2015-solving) 🔵
 
@@ -116,7 +119,7 @@ cite them as such.
 
 #### BBQ: A Hand-Built Bias Benchmark for Question Answering(@parrish2021bbq) 🔵
 
-## Image Prompt Engineering
+## هندسة أوامر الصور
 
 #### Taxonomy of prompt modifiers(@oppenlaender2022taxonomy)
 
@@ -130,7 +133,7 @@ cite them as such.
 
 #### Optimizing Prompts for Text-to-Image Generation(@hao2022optimizing)
 
-## Prompt Engineering IDEs
+## هندسة أوامر IDEs
 
 #### Prompt IDE(@strobelt2022promptide) 🔵
 
@@ -140,7 +143,7 @@ cite them as such.
 
 #### PromptMaker(@jiang2022promptmaker) 🔵
 
-## Tooling
+## أدوات
 
 #### LangChain(@Chase_LangChain_2022) 🔵
 
@@ -150,7 +153,7 @@ cite them as such.
 
 #### GPT Index(@Liu_GPT_Index_2022) 🔵
 
-## Applied Prompt Engineering
+## هندسة الأوامر التطبيقية 
 
 #### Language Model Cascades(@dohan2022language)
 
@@ -160,11 +163,11 @@ cite them as such.
 
 #### PAL: Program-aided Language Models(@gao2022pal) 🔵
 
-## User Interface Design
+## تصميم واجهات المستخدم
 
 #### Design Guidelines for Prompt Engineering Text-to-Image Generative Models(@liu2022design)
 
-## Prompt Injection
+## حقن الأوامر
 
 #### Machine Generated Text: A Comprehensive Survey of Threat Models and Detection Methods(@crothers2022machine) 🔵
 
@@ -192,7 +195,7 @@ cite them as such.
 
 #### Microsoft Bing Chat Prompt(@kevinbing)
 
-## Jailbreaking
+## Jailbreaking لم أجد ترجمة لها 
 
 #### Ignore Previous Prompt: Attack Techniques For Language Models(@perez2022jailbreak)
 
@@ -224,25 +227,25 @@ cite them as such.
 
 #### Updated Jailbreaking Prompts (@AI_jailbreak) 🔵
 
-## Surveys
+## إستبيانات
 
 #### Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing(@liu2021pretrain)
 
 #### PromptPapers(@ning2022papers)
 
-## Dataset Generation
+## توليد مجموعة البيانات
 
 #### Discovering Language Model Behaviors with Model-Written Evaluations(@perez2022discovering)
 
 #### Selective Annotation Makes Language Models Better Few-Shot Learners(@su2022selective)
 
-## Applications
+## تطبيقات
 
 #### Atlas: Few-shot Learning with Retrieval Augmented Language Models(@izacard2022atlas)
 
 #### STRUDEL: Structured Dialogue Summarization for Dialogue Comprehension(@wang2022strudel)
 
-## Hot Topics
+## مواضيع مميزة
 
 #### Auto-GPT(@richards2023)
 
@@ -250,7 +253,7 @@ cite them as such.
 
 #### AgentGPT(@reworkd2023)
 
-## Miscl
+## Miscl لم أجد ترجمة لها
 
 #### Prompting Is Programming: A Query Language For Large Language Models(@beurerkellner2022prompting)
 

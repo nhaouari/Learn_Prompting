@@ -194,7 +194,7 @@ async function createConfig() {
             label: "Change Log",
             position: "right",
           },
-        ],
+        ], 
       },
       footer: {
         style: "dark",
